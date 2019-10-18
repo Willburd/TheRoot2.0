@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.1195652
+Grime: 0.2282609
+BkgDroneVolume: 0
+Palette: 20
+EffectColorA: 0
+EffectColorB: 9
+Effects: LightBurn-0.09782609-20-20, 
+PlacedObjects: NoSpearStickZone><478.5829><252.318><-236~137, LightSource><738.3597><169.4172><0.5217391~Environment~-439~530~387~-131.3975~1~0, LightSource><309.3561><158.4196><0.07608695~Environment~-622~317~50~86.60254~1~1, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><78.57001><473.1873><0.3913043><1><464.57><-39.81265><-132.3553><-32.35534><0><0.3173914, OMNI><AM_SUB-BlankState.ogg><829.9221><646.3518><0.326087><1, SPOT><AM_ENV-Outside.ogg><836.6651><533.3871><0.5><1><864.665><353.3871><-726.3553><-22.35535><0><1, SPOT><AM_ENV-LightWind.ogg><651.4069><599.874><0.3913043><1><954.407><520.874><-573.3553><-156.3553><0><1, 
+FadePalette: 4, 0.6413044
