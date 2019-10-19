@@ -1,0 +1,12 @@
+Palette: 20
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.01
+overseersMin: 1
+overseersMax: 3
+playerGuideOverseerSpawnChance: 0.1
+Subregion: The Root
+Subregion: Coastline Railway
+Room Setting Templates: Railway, Pipes, RailYard
