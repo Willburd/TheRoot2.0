@@ -14,7 +14,7 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 20
+Palette: 2
 EffectColorA: 18
 EffectColorB: 3
 Effects: LightBurn-0.25-20-20, 
