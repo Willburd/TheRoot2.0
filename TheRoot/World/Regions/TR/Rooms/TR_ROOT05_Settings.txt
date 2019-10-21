@@ -1,0 +1,4 @@
+Template: TR_SettingsTemplate_Pipes
+Clouds: 1
+Grime: 0
+FadePalette: 2, 0.1521739, 0.1521739, 0.1521739
