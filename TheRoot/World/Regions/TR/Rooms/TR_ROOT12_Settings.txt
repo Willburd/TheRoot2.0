@@ -1,0 +1,6 @@
+DangerType: FloodAndRain
+Clouds: 0.2391304
+Palette: 8
+Effects: SkyAndLightBloom-0.2717391-20-20, LightBurn-0-18-76, 
+PlacedObjects: LightSource><495.9488><527.0219><1~Environment~0~100~50~86.60254~1~0, LightSource><427.7894><550.1961><0.7282609~Environment~330~-219~-536~-35.39746~1~0, LightSource><353.3><204.2479><0.5543478~Environment~408~-197~-475~243.6025~1~0, LightSource><471.4268><516.6565><0.2391304~Environment~-295~181~-300~-160.3975~1~1, LightSource><391.0529><240.7159><0.1304348~Environment~225~-218~-240~40.60254~1~1, LightFixture><768.6199><253.16><RedLight~17.32051~-10~26, 
+FadePalette: 3, 0.6413044
