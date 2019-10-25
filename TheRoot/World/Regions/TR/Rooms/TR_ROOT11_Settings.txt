@@ -1,3 +1,2 @@
 Effects: LightBurn-0.1847826-30-30, 
-Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_16 - Shoreline<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>104<tA>panPos<tB>742.0777<tB>390.9343<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>603.0777<tB>610.9343<tA>handlePos<tB>-563.3553<tB>-83.35535, 
 FadePalette: 3, 0.2282609, 0.2065217, 0.2391304, 0.9021739, 0.9021739, 0.8913044
