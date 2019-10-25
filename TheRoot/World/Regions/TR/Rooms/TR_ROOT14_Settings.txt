@@ -1,0 +1,5 @@
+Template: TR_SettingsTemplate_Pipes
+DangerType: FloodAndRain
+Clouds: 0.2391304
+PlacedObjects: LightFixture><274.7884><527.0537><RedLight~-270.6795~31~6, LightSource><507.9341><406.6888><0.1521739~Environment~-319~120~118~52.60254~1~1, LightSource><505.21><375.554><0.3478261~Environment~-226~216~85~-117.3975~1~0, 
+FadePalette: 2, 0.2934783, 0.2934783, 0.2934783
