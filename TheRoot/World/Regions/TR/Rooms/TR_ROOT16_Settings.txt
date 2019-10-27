@@ -2,4 +2,4 @@ Template: TR_SettingsTemplate_RailYard
 Effects: GreenSparks-0.1086956-29-142, LightBurn-0-34-36, 
 PlacedObjects: NoSpearStickZone><245.6992><310.7672><-5~148, 
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>BM_UW_UPPERWALL<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>757.1133<tB>211.896<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>3885.113<tB>1274.573<tA>handlePos<tB>-645.3553<tB>-164.3553, 
-FadePalette: 2, 0.423913, 0.2717391, 0.1413043, 0.05434782, 0.3586957, 0.2391304, 0.1413043, 0.06521739
+FadePalette: 2, 0.423913, 0.2717391, 0.1956522, 0.1304348, 0.3586957, 0.2391304, 0.173913, 0.1086956
