@@ -64,7 +64,8 @@ SH_A08 : SH_A09, DISCONNECTED
 SH_E02 : SH_B12, SH_ROOTACCESS01, SH_D02
 SH_S08 : SH_ROOTACCESS01 : SHELTER
 SH_ROOTACCESS01 : SH_ROOTACCESS02, SH_E02, SH_S08
-SH_ROOTACCESS02 : DISCONNECTED, SH_ROOTACCESS01
+SH_ROOTACCESS02 : SH_ROOTACCESS03, SH_ROOTACCESS01
+SH_ROOTACCESS03 : DISCONNECTED, SH_ROOTACCESS02
 SH_B12 : SH_E03, SH_S09, SH_E02
 SH_S09 : SH_B12 : SHELTER
 SH_E03 : SH_B12, SH_E01
@@ -107,7 +108,8 @@ SH_B10 : 3-Tentacle Plant
 SH_E02 : 4-Tentacle Plant, 5-Tentacle Plant, 6-Tentacle Plant
 SH_C10 : 3-Lantern Mouse, 4-Lantern Mouse, 5-Lantern Mouse, 6-Lantern Mouse, 7-Lantern Mouse
 SH_H01 : 4-Small Centipede-3
-SH_ROOTACCESS02 : 2-Lantern Mouse-3, 6-Tentacle Plant, 9-Tentacle Plant
+SH_ROOTACCESS02 : 6-Tentacle Plant, 9-Tentacle Plant
+SH_ROOTACCESS03 : 3-Lantern Mouse-3
 LINEAGE : SH_A11 : 2 : Green-0.4, Black-0
 LINEAGE : SH_A11 : 3 : Pink-0.4, Black-0
 LINEAGE : SH_B01 : 5 : Lantern Mouse-0.2, BigSpider-0.2, BigSpider-0.2, NONE-0.05, SpitterSpider-0
