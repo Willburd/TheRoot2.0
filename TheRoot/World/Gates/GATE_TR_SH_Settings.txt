@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Rain
+Palette: 10
+Effects: BkgOnlyLightning-0.3043478-20-20, 
+PlacedObjects: NoSpearStickZone><474.5886><249.8207><-45~235, ExitSymbolShelter><231.0524><108.7195><, 
+FadePalette: 5, 0.2282609

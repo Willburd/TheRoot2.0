@@ -3,4 +3,4 @@ DangerType: Rain
 Effects: BkgOnlyLightning-0.4891304-20-72, LightBurn-0.5108696-22-16, FireFlies-0.2065217-272-20, 
 PlacedObjects: LightSource><458.6515><605.3806><0.173913~White~601~-657~-88~-331.3975~1~0, LightSource><828.6119><373.4158><0.1956522~White~-356~341~-579~-3.397461~1~0, LightSource><1837.086><430.6151><0.1086956~White~-458~313~-346~-137.3975~1~0, NoSpearStickZone><128.7292><412.9489><-14~154, 
 AmbientSounds: OMNI><AM_RAIN-RollingThunder.ogg><878.7361><643.0505><0.2391304><1, OMNI><AM_ENV-CityTone.ogg><702.9329><642.0811><0.2391304><1, OMNI><AM_ENV-NatWind.ogg><879.9877><569.8004><0.3152174><1, 
-FadePalette: 9, 0.07608695, 0.07608695, 0.07608695
+FadePalette: 5, 0.07608695, 0.07608695, 0.07608695
