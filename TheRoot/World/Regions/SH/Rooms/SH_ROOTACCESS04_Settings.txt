@@ -1,0 +1,5 @@
+Template: SH_SettingsTemplate_DarkSun
+Effects: BkgOnlyLightning-0.4782609-23-68, FireFlies-0.2065217-273-19, LightBurn-0.5652174-22-13, 
+PlacedObjects: LightSource><252.3817><549.9005><0.1630435~White~-625~-418~-304~-285.3975~1~0, 
+AmbientSounds: OMNI><AM_RAIN-RollingThunder.ogg><878.7361><643.0505><0.2391304><1, OMNI><AM_ENV-CityTone.ogg><702.9329><642.0811><0.2391304><1, OMNI><AM_ENV-NatWind.ogg><879.9877><569.8004><0.3152174><1, 
+FadePalette: 5, 0.07608695
