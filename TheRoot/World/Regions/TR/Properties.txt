@@ -9,4 +9,5 @@ overseersMax: 3
 playerGuideOverseerSpawnChance: 0.1
 Subregion: The Root
 Subregion: Coastline Railway
+Subregion: Penumbral Basin
 Room Setting Templates: Railway, Pipes, RailYard
