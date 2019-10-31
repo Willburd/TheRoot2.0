@@ -1,4 +1,5 @@
 Template: TR_SettingsTemplate_RailYard
+DangerType: FloodAndRain
 Clouds: 1
 Palette: 10
 Effects: BkgOnlyLightning-0-27-80, GreenSparks-0-26-134, LightBurn-0.2065217-20-20, 
