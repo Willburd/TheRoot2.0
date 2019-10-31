@@ -1,6 +1,6 @@
 Template: TR_SettingsTemplate_RailYard
 Palette: 10
-Effects: BkgOnlyLightning-0.25-27-80, GreenSparks-0.08695652-26-134, LightBurn-0.5326087-20-20, Flies-0.1304348-283-17, 
+Effects: BkgOnlyLightning-0.25-27-80, GreenSparks-0.08695652-26-134, LightBurn-0.5326087-20-20, FireFlies-0.1304348-287-21, 
 PlacedObjects: LightSource><411.1894><465.3143><0.1195652~Environment~-574~88~50~86.60254~1~0, LightSource><996.0139><565.4495><0.1956522~Environment~349~63~32~-155.3975~1~0, LightSource><1497.914><489.0694><0.2391304~Environment~-398~137~50~86.60254~1~0, LightSource><2162.118><408.1613><0.1304348~Environment~759~-376~50~86.60254~1~0, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.01086956><0.1, OMNI><AM_ENV-NatWind.ogg><875.2075><567.8046><0.3043478><1, OMNI><AM_RAIN-RollingThunder.ogg><516.051><644.0197><0.2934783><1, 
 FadePalette: 5, 0.09782609, 0.09782609, 0.09782609
