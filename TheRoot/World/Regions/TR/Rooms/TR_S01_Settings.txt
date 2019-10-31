@@ -1,0 +1,5 @@
+Template: TR_SettingsTemplate_RailYard
+Clouds: 1
+Palette: 5
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.01086956><0.1, OMNI><AM_RAIN-RollingThunder.ogg><516.051><644.0197><0.08695652><1, OMNI><AM_ENV-CityTone.ogg><695.4462><642.4615><0.2391304><0.8434783, OMNI><SO_WAT-DripTap.ogg><876.5616><565.3171><0.3369565><0.823913, 
+FadePalette: 10, 0.7608696

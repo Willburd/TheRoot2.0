@@ -1,0 +1,7 @@
+Template: TR_SettingsTemplate_RailYard
+Clouds: 0.1195652
+Palette: 8
+Effects: GreenSparks-0-34-143, BkgOnlyLightning-0.1304348-33-88, LightBurn-1-35-31, 
+PlacedObjects: LightSource><409.8275><305.8989><0.2065217~Environment~-317~210~50~86.60254~1~1, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.01086956><0.1, OMNI><AM_ENV-CityTone.ogg><695.4462><642.4615><0.07608695><0.4913043, OMNI><AM_RAIN-RollingThunder.ogg><516.051><644.0197><0.2608696><1, OMNI><SO_WAT-MoreDrips.ogg><873.6287><564.6531><0.2934783><1, 
+FadePalette: 3, 0.6630435
