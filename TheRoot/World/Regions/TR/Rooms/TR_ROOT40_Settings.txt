@@ -1,0 +1,7 @@
+Template: TR_SettingsTemplate_RailYard
+RainIntensity: 0.9565217
+RumbleIntensity: 0.9673913
+Effects: GreenSparks-0.1086956-34-142, ElectricDeath-0.1413043-290-149, LightBurn-0.1521739-32-39, 
+AmbientSounds: SPOT><AM_ENV-WallHum.ogg><871.1829><522.5808><0.4021739><0.8043478><4142.183><1257.581><-753.3553><-189.3553><0><1, SPOT><AM_IND-12thFloor.ogg><692.4344><523.1727><0.3695652><0.8826087><4149.435><107.1728><-637.3553><130.6447><0><1, SPOT><SO_WAT-ProperDrips.ogg><870.8298><400.6449><0.2717391><0.8630434><2887.83><48.6449><-396.3553><10.64465><0><0.904348, OMNI><AM_RAIN-Rumbles.ogg><519.8257><567.5649><0.25><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>BM_SS_DOOR<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>757.1133<tB>211.896<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>3885.113<tB>1274.573<tA>handlePos<tB>-645.3553<tB>-164.3553, 
+FadePalette: 2, 0.08695652, 0.09782609, 0.1086956, 0.1956522, 0.3586957, 0.3152174, 0.25, 0.1956522
