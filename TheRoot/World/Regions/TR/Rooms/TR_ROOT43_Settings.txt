@@ -1,0 +1,8 @@
+Template: TR_SettingsTemplate_RailYard
+RainIntensity: 0.5652174
+RumbleIntensity: 0.6739131
+Palette: 16
+Effects: Lightning-0.3369565-292-29, GreenSparks-0.07608695-291-88, 
+PlacedObjects: LightFixture><400.1271><2011.654><RedLight~17.32051~-10~8, LightFixture><900.811><1504.565><RedLight~17.32051~-10~72, LightFixture><77.5513><1301.946><RedLight~17.32051~-10~86, LightFixture><874.3323><940.6412><RedLight~17.32051~-10~55, LightFixture><94.87579><376.4067><RedLight~17.32051~-10~85, LightFixture><834.8243><253.1544><RedLight~17.32051~-10~7, CustomDecal><403.6843><859.3275><-87~8~-78~86~26~64~118~62~0~1~1~UWshelter~0.5326087~0.1413043~0.5326087~0.1413043~0.5326087~0.1413043~0.5326087~0.1413043, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><873.6475><561.0782><0.4021739><0.8043478, OMNI><AM_RAIN-Rumbles.ogg><691.5759><561.8149><0.2065217><1, OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.02173912><0.1, 
+FadePalette: 17, 0.4130435, 0.4130435, 0.4130435, 0.4130435
