@@ -1,0 +1,18 @@
+Template: NONE
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.4456522
+WaveSpeed: 0.5
+WaveLength: 0.06521739
+SecondWaveLength: 0.1666667
+Clouds: 0.1086956
+Grime: 0
+BkgDroneVolume: 0
+WaterReflectionAlpha: 1
+Palette: 16
+EffectColorA: 18
+EffectColorB: 3
+Effects: ElectricDeath-1-27-132, GreenSparks-0.0326087-30-75, Lightning-0.6086956-29-16, 
+PlacedObjects: LightFixture><750.65><456.6051><RedLight~-94.6795~103~92, LightFixture><211.3125><10.74805><RedLight~51.3205~144~3, NoSpearStickZone><484.4697><229.7156><-251~100, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><67.55426><500.7911><0.5><1><478.0962><-12.64191><-100.3553><-40.35535><0><0.2304349, OMNI><SO_WAT-RainishDrips.ogg><829.1453><647.1125><0.3586957><1, OMNI><AM_ENV-WallHum.ogg><653.3596><649.8328><0.4021739><0.8043478, 
+FadePalette: 17, 0.5

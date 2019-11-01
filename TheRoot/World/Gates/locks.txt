@@ -17,3 +17,4 @@ GATE_SI_LF : 3 : 3
 GATE_UW_SS : 5 : 1
 GATE_SB_TR : 4 : 3
 GATE_TR_SH : 2 : 4
+GATE_UW_TR : 1 : 1
