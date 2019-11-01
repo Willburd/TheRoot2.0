@@ -1,0 +1,7 @@
+Template: TR_SettingsTemplate_RailYard
+RainIntensity: 0.7391304
+RumbleIntensity: 0.7391304
+Palette: 16
+Effects: Lightning-0.5108696-292-29, GreenSparks-0.1521739-291-88, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><873.6475><561.0782><0.4021739><0.8043478, OMNI><AM_RAIN-Rumbles.ogg><691.5759><561.8149><0.3804348><1, OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.02173912><0.1, 
+FadePalette: 17, 0.4130435, 0.4130435, 0.4130435, 0.4130435
