@@ -1,0 +1,8 @@
+Template: TR_SettingsTemplate_RailYard
+RainIntensity: 0
+RumbleIntensity: 0.5
+Clouds: 1
+Palette: 2
+Effects: GreenSparks-0-287-24, BkgOnlyLightning-0-285-83, ElectricDeath-1-30-86, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.01086956><0.1, OMNI><AM_ENV-CityTone.ogg><695.4462><642.4615><0.01086957><0.1, OMNI><AM_RAIN-RollingThunder.ogg><516.051><644.0197><0.0326087><0.1, OMNI><AM_ENV-WallHum.ogg><877.8036><567.7119><0.2065217><0.8043478, SPOT><AM_ENV-LightWind.ogg><697.5643><527.4393><0.2608696><1><-151.4357><651.4393><-296.3553><-393.3553><0><0.6217393, SPOT><AM_RAIN-Rumbles.ogg><877.6902><451.0619><0.2608696><1><3112.69><454.0619><-253.3553><-62.35535><0><1, 
+FadePalette: 17, 0.8043478, 0.8478261, 0.8695652
