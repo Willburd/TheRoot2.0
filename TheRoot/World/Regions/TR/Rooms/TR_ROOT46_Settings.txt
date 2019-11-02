@@ -8,5 +8,6 @@ Palette: 2
 EffectColorA: 18
 EffectColorB: 3
 Effects: GreenSparks-0-287-24, BkgOnlyLightning-0-285-83, ElectricDeath-1-30-86, 
+PlacedObjects: LightFixture><2876.587><659.8847><RedLight~17.32051~-10~29, 
 AmbientSounds: OMNI><AM_ENV-WallHum.ogg><877.8036><567.7119><0.2065217><0.8043478, SPOT><AM_RAIN-Rumbles.ogg><701.6902><523.0619><0.2608696><1><3112.69><454.0619><-253.3553><-62.35535><0><1, SPOT><AM_WIN-StrongWnd2.ogg><880.9297><456.9373><0.2173914><1><-159.0703><566.9373><76.64465><-414.3553><0><1, 
 FadePalette: 17, 0.7282609, 0.7826087, 0.8695652

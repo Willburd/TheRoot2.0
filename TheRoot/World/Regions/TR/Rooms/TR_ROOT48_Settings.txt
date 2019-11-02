@@ -1,0 +1,5 @@
+Template: TR_SettingsTemplate_Leg
+Palette: 16
+PlacedObjects: LightFixture><429.6964><786.771><RedLight~17.32051~-10~64, LightFixture><877.3451><1274.875><RedLight~17.32051~-10~61, LightFixture><396.5421><1377.943><RedLight~17.32051~-10~36, LightFixture><-81.69647><1017.788><RedLight~17.32051~-10~90, LightFixture><1141.841><1036.519><RedLight~17.32051~-10~43, LightFixture><1858.672><1364.182><RedLight~17.32051~-10~80, LightFixture><2069.977><143.8476><RedLight~17.32051~-10~9, LightFixture><2009.528><895.0756><RedLight~17.32051~-10~88, LightFixture><593.2703><486.6042><RedLight~17.32051~-10~7, LightFixture><839.4159><67.65929><RedLight~17.32051~-10~9, LightFixture><-18.65967><349.6343><RedLight~17.32051~-10~29, LightFixture><1207.901><-17.12756><RedLight~17.32051~-10~72, LightFixture><2159.949><516.0188><RedLight~17.32051~-10~97, 
+AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><836.1709><572.0663><0.3586957><1, SPOT><AM_WIN-SubWnd.ogg><649.7><531.7454><0.4565217><1><898.6898><-24.29767><270.6447><250.6447><0><0.6869566, 
+FadePalette: 17, 0.6847826, 0.6847826, 0.6739131, 0.6630435
