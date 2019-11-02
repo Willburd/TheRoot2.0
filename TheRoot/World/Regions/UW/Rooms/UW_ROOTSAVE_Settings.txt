@@ -1,0 +1,4 @@
+EffectColorA: 18
+EffectColorB: 5
+PlacedObjects: LightFixture><360.84><333.4286><RedLight~17.32051~-10~24, LightFixture><547.8264><747.027><RedLight~17.32051~-10~11, 
+FadePalette: 17, 0.5869565

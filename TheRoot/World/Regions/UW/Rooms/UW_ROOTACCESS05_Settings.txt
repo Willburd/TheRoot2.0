@@ -1,0 +1,8 @@
+Template: UW_SettingsTemplate_Underhang
+RainIntensity: 0
+RumbleIntensity: 0.5
+EffectColorA: 18
+EffectColorB: 5
+Effects: ElectricDeath-1-17-127, 
+AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><833.5582><572.1934><0.4130435><1, 
+FadePalette: 17, 0.3913043, 0.3804348, 0.3913043, 0.3913043, 0.3913043, 0.3804348

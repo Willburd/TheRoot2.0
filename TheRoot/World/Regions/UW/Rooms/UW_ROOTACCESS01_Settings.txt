@@ -1,4 +1,3 @@
-Template: UW_SettingsTemplate_Underhang
 RainIntensity: 0.0326087
 RumbleIntensity: 0.5108696
 Clouds: 0.3043478
@@ -6,5 +5,5 @@ EffectColorA: 18
 EffectColorB: 5
 Effects: GreenSparks-0.1413043-19-81, ElectricDeath-1-278-19, Lightning-0.5760869-22-21, 
 PlacedObjects: LightFixture><-44.91028><414.8212><RedLight~17.32051~-10~84, LightFixture><924.8365><68.88499><RedLight~17.32051~-10~43, LightFixture><189.8099><-6.057747><RedLight~17.32051~-10~32, LightFixture><71.97728><644.1977><RedLight~17.32051~-106~30, LightFixture><1204.15><725.3713><RedLight~17.32051~-10~63, LightFixture><1906.082><717.4323><RedLight~17.32051~-10~11, LightFixture><1948.806><97.34752><RedLight~17.32051~-10~90, LightFixture><1135.89><-48.38102><RedLight~17.32051~-10~66, LightFixture><615.837><722.9303><RedLight~17.32051~-10~5, 
-AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><830.3721><650.1584><0.2065217><1, OMNI><AM_ENV-NatWind.ogg><653.4124><651.9298><0.3804348><1, OMNI><SO_IND-WeirdVent.ogg><652.5757><578.6519><0.173913><0.823913, SPOT><AM_ENV-CityTone.ogg><832.4187><536.6827><0.5><1><724.4188><724.6827><-246.3553><-337.3553><0><1, 
+AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><830.3721><650.1584><0.2065217><1, OMNI><AM_ENV-NatWind.ogg><653.4124><651.9298><0.1413043><1, OMNI><SO_IND-WeirdVent.ogg><652.5757><578.6519><0.173913><0.823913, SPOT><AM_ENV-CityTone.ogg><832.4187><536.6827><0.5><1><903.4227><730.6979><93.64471><-528.3553><0><1, 
 FadePalette: 17, 0.7282609, 0.7282609
