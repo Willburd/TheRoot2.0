@@ -1,4 +1,4 @@
-Template: TR_SettingsTemplate_RailYard
+Template: TR_SettingsTemplate_Leg
 RainIntensity: 0.7391304
 RumbleIntensity: 0.7391304
 Palette: 16
