@@ -1,0 +1,7 @@
+Template: TR_SettingsTemplate_Leg
+RainIntensity: 0.7173913
+RumbleIntensity: 0.6847826
+Effects: ElectricDeath-0.5-20-85, GreenSparks-0.3478261-283-18, 
+PlacedObjects: LightFixture><893.3886><186.1014><RedLight~17.32051~-10~11, LightFixture><73.57855><359.0679><RedLight~17.32051~-10~82, LightFixture><819.3001><647.2448><RedLight~60.46716~9.848694~98, 
+AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><839.6409><573.108><0.25><1, SPOT><AM_IND-Utility03.ogg><671.4394><529.4406><0.3586957><1><517.4415><-30.46849><-211.3553><-140.3553><0><0.4913045, SPOT><SO_IND-HeatDuct.ogg><844.3636><455.8354><0.3043478><1><307.11><527.7466><-182.3553><-71.35535><0><0.3934784, SPOT><SO_IND-HVAC.ogg><675.2771><416.4482><0.4130435><1><1119.216><36.41161><-279.3553><-78.35535><0><0.3391306, 
+FadePalette: 17, 0.4347826
