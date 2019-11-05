@@ -1,3 +1,3 @@
 Effects: LightBurn-0.1847826-30-30, 
-PlacedObjects: NoSpearStickZone><2637.171><1151.353><-6~136, NoSpearStickZone><449.8981><1253.865><27~170, 
+PlacedObjects: NoSpearStickZone><2637.171><1151.353><-6~136, NoSpearStickZone><449.8981><1253.865><27~170, Mushroom><2103.444><333.2975><0~0~2~3, Mushroom><2722.064><290.3228><0~0~2~3, Mushroom><2755.341><297.428><0~0~2~3, 
 FadePalette: 3, 0.2282609, 0.2065217, 0.2391304, 0.75, 0.7608696, 0.7391304

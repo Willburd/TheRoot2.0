@@ -3,6 +3,6 @@ RainIntensity: 0.7717391
 RumbleIntensity: 0.8043478
 Palette: 22
 Effects: GreenSparks-0.1847826-34-142, ElectricDeath-0.2608696-290-149, LightBurn-0.1521739-32-39, Lightning-0.1847826-292-93, 
-PlacedObjects: LightFixture><915.6918><656.3068><RedLight~17.32051~-10~91, LightFixture><166.7765><-7.198196><RedLight~17.32051~-10~90, 
+PlacedObjects: LightFixture><915.6918><656.3068><RedLight~17.32051~-10~91, LightFixture><166.7765><-7.198196><RedLight~17.32051~-10~90, KarmaFlower><609.0659><312.3281><0~0~5~7, 
 AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><519.8257><567.5649><0.3043478><1, OMNI><AM_ENV-WallHum.ogg><699.3381><568.6174><0.4021739><0.8043478, 
 FadePalette: 16, 0.4565217, 0.09782609, 0.1086956, 0.1956522, 0.3586957, 0.3152174, 0.25, 0.1956522

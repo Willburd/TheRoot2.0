@@ -1,7 +1,7 @@
 Clouds: 0
 BkgDroneVolume: 0
 Effects: BkgOnlyLightning-0.3043478-19-74, GreenSparks-0.02173913-17-129, Bloom-0.5869565-273-131, LightBurn-0-22-22, 
-PlacedObjects: LightFixture><6908.077><774.8155><RedLight~-257.6795~-126~85, NoSpearStickZone><6797.948><440.7241><7~127, NoSpearStickZone><133.9027><448.6747><3~129, 
+PlacedObjects: LightFixture><6908.077><774.8155><RedLight~-257.6795~-126~85, NoSpearStickZone><6797.948><440.7241><7~127, NoSpearStickZone><133.9027><448.6747><3~129, FirecrackerPlant><4187.89><328.5828><0~0~2~3, FirecrackerPlant><4257.185><335.6727><0~0~2~3, FirecrackerPlant><4334.026><316.9483><0~0~2~3, 
 AmbientSounds: SPOT><AM_RAIN-RollingThunder.ogg><871.8221><534.6865><0.326087><1><7162.822><805.6865><-1272.355><-679.3553><0><1, SPOT><AM_WIN-StrongWnd2.ogg><694.9589><532.3043><0.2717391><1><7170.959><808.3043><-448.3553><-248.3553><0><1, 
 Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_16 - Shoreline<eA>vol<eB>0.3<eA>prio<eB>0.5434783<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>566.9237<tB>481.6849<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
 FadePalette: 22, 0.1630435, 0.1847826, 0.2282609, 0.25, 0.2934783, 0.3478261, 0.4130435
