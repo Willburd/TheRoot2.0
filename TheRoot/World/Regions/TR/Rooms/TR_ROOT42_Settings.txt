@@ -1,6 +1,8 @@
 Template: TR_SettingsTemplate_Leg
 RainIntensity: 0.7391304
 RumbleIntensity: 0.7391304
+RandomItemDensity: 0.6739131
+RandomItemSpearChance: 0.4391304
 Palette: 16
 Effects: Lightning-0.5108696-292-29, GreenSparks-0.1521739-291-88, ElectricDeath-0.2173913-294-146, 
 PlacedObjects: LightFixture><535.8038><2945.288><RedLight~17.32051~-10~25, LightFixture><881.1353><2756.397><RedLight~17.32051~-10~66, LightFixture><778.8108><2196.18><RedLight~17.32051~-10~71, LightFixture><558.1396><1455.393><RedLight~17.32051~-10~67, LightFixture><899.8564><1611.111><RedLight~17.32051~-10~44, LightFixture><585.4497><731.512><RedLight~17.32051~-10~4, LightFixture><879.204><836.3071><RedLight~17.32051~-10~20, LightFixture><772.0579><148.6927><RedLight~17.32051~-10~9, 
