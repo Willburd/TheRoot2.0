@@ -95,8 +95,7 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (0)OFFSCREEN : 0-Vulture-2, 0-KingVulture, 0-Scavenger-9
 (0)TR_ROOT10 : 2-Centipede, 2-Small Centipede-2
 (0)TR_ROOT05 : 3-Centipede, 4-Small Centipede-2
-(0)TR_ROOT22 : 6-Salamander
-(0)TR_ROOT24 : 3-Salamander, 4-Salamander
+(0)TR_ROOT24 : 3-Salamander
 (0)TR_ROOT40 : 5-Blue, 6-Blue
 (0)TR_ROOT28 : 3-BigSpider, 8-Lantern Mouse-5
 (0)TR_ROOT18 : 15-Yellow-3, 16-Yellow-4, 6-BigSpider-3
@@ -145,7 +144,7 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (2)OFFSCREEN : 0-Vulture-4, 0-KingVulture, 0-Scavenger-13
 (2)TR_ROOT10 : 2-Red Centipede, 2-Small Centipede-2
 (2)TR_ROOT05 : 3-Centipede, 4-Centipede
-(2)TR_ROOT22 : 6-Salamander-2
+(2)TR_ROOT22 : 6-Salamander
 (2)TR_ROOT24 : 3-Centipede, 6-Small Centipede-2
 (2)TR_ROOT40 : 5-Cyan, 6-Cyan
 (2)TR_ROOT28 : 3-SpitterSpider, 8-Dropbug-2
