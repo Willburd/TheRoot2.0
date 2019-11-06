@@ -1,5 +1,5 @@
 Template: NONE
-RainIntensity: 0.8043478
+RainIntensity: 1
 RumbleIntensity: 0.5434783
 Clouds: 0.2391304
 Grime: 0.07608695
