@@ -2,7 +2,8 @@ ROOMS
 GATE_DS_SB : DISCONNECTED, SB_D04, DISCONNECTED : GATE
 GATE_SB_SL : SB_G02, DISCONNECTED : GATE
 GATE_LF_SB : DISCONNECTED, SB_F03, DISCONNECTED : GATE
-GATE_SB_TR : SB_ROOTACCESS : GATE
+GATE_SB_TR : SB_ROOTACCESS, DISCONNECTED, SB_ROOTSAVE : GATE
+SB_ROOTSAVE : GATE_SB_TR : SHELTER
 SB_F03 : GATE_LF_SB, SB_A10, SB_A09, SB_H03
 SB_A10 : SB_F03
 SB_A09 : SB_F03, SB_H03
@@ -73,6 +74,7 @@ SB_E02 : 6-TentaclePlant, 7-TentaclePlant, 5-Centipede, 10-Centipede, 8-Centiped
 SB_J01 : 4-Centipede, 6-Centipede
 SB_B02 : 3-TentaclePlant
 SB_A01 : 3-Small Centipede-4, 4-Centipede-2
+SB_ROOTACCESS : 13-TentaclePlant, 10-Centipede, 14-Centipede, 6-Black
 LINEAGE : SB_B02 : 4 : BigSpider-0.5, Black-0.2, Red-0
 LINEAGE : SB_B02 : 5 : Blue-0.5, White-0.5, Black-0.5, Red-0
 LINEAGE : SB_B01 : 3 : BigSpider-0.5, SpitterSpider-0.3, Red-0
