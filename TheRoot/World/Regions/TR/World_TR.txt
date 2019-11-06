@@ -93,8 +93,8 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 
 // White
 (0)OFFSCREEN : 0-Vulture-2, 0-KingVulture, 0-Scavenger-9
-(0)TR_ROOT10 : 2-Centipede-2, 2-Small Centipede-3
-(0)TR_ROOT05 : 3-Centipede-2, 4-Centipede
+(0)TR_ROOT10 : 2-Centipede, 2-Small Centipede-2
+(0)TR_ROOT05 : 3-Centipede, 4-Small Centipede-2
 (0)TR_ROOT22 : 6-Salamander
 (0)TR_ROOT24 : 3-Salamander, 4-Salamander
 (0)TR_ROOT40 : 5-Blue, 6-Blue
@@ -115,7 +115,7 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (0)TR_ROOT11 : 8-Yellow-4
 (0)TR_ROOT30 : 3-BigSpider-2, 6-Black, 8-Black
 (0)TR_ROOT02 : 10-TentaclePlant, 3-Centipede-2, 4-Centipede
-(0)TR_ROOT08 : 3-Centipede-2, 2-Small Centipede-3
+(0)TR_ROOT08 : 3-Centipede, 2-Small Centipede-2
 
 // Yellow
 (1)OFFSCREEN : 0-Vulture-2, 0-Scavenger-11
@@ -139,14 +139,14 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (1)TR_ROOT11 : 8-Yellow-3
 (1)TR_ROOT30 : 3-BigSpider-2
 (1)TR_ROOT02 : 10-TentaclePlant, 3-Centipede, 4-Centipede
-(1)TR_ROOT08 : 3-Centipede-2, 2-Small Centipede-4
+(1)TR_ROOT08 : 3-Centipede, 2-Small Centipede-3
 
 // Red
 (2)OFFSCREEN : 0-Vulture-4, 0-KingVulture, 0-Scavenger-13
 (2)TR_ROOT10 : 2-Red Centipede, 2-Small Centipede-2
-(2)TR_ROOT05 : 3-Centipede-3, 4-Centipede
+(2)TR_ROOT05 : 3-Centipede, 4-Centipede
 (2)TR_ROOT22 : 6-Salamander-2
-(2)TR_ROOT24 : 3-Centipede-2, 4-Centipede, 6-Small Centipede-2
+(2)TR_ROOT24 : 3-Centipede, 6-Small Centipede-2
 (2)TR_ROOT40 : 5-Cyan, 6-Cyan
 (2)TR_ROOT28 : 3-SpitterSpider, 8-Dropbug-2
 (2)TR_ROOT18 : 15-Yellow-3, 16-Yellow-4, 6-SpitterSpider-2, 13-Dropbug-2
@@ -166,7 +166,7 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (2)TR_ROOT11 : 8-Centipede-3, 10-Small Centipede-3
 (2)TR_ROOT30 : 3-SpitterSpider, 6-Black, 8-Black
 (2)TR_ROOT02 : 10-TentaclePlant, 3-Centipede-3, 4-Cyan
-(2)TR_ROOT08 : 3-Centipede-4, 2-Small Centipede-2
+(2)TR_ROOT08 : 3-Centipede-2, 2-Small Centipede-3
 END CREATURES
 
 BAT MIGRATION BLOCKAGES
