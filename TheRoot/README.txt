@@ -32,9 +32,10 @@ The final connection can be found near the area before memory crypts
 
 [INSTALL]
 Simply merge the Assets and World folders of the mod, with the same folders in your Rain World 
-install. It will ask to replace several files if done correctly.
-
-It is recomended to install the Custom Regions mod, as passages will not function otherwise.
+install. It will ask to replace several files if done correctly. It is recomended to install the 
+Custom Regions mod, as passages and region artwork will not function otherwise. This mod can be
+found on RainDB, along with the partiality mod loader. However, none of this is required for the
+region to work in a vanilla install. You will just not have these features.
 
 Attempting to install more than one region mod is a bit complex, but if the other region does not
 have the same connections as the one you are trying to merge it with, it should be as simple as
@@ -54,3 +55,10 @@ Willbird - Region planning and rooms, basic testing
 Enderzilla - Testing(Hunter)
 Snail Turtle - Testing(Survivor)
 Devian Morgenstern - Testing(Survivor)
+
+
+
+[DEV NOTES]
+If you're interested in custom region develoupment. The entire history of this remake, along with
+the project files for every room can be found here! https://github.com/Willburd/TheRoot2.0
+If you're curious how something was done in the mod, feel free to take a peak under the hood!
