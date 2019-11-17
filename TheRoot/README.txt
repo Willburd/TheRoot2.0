@@ -48,12 +48,12 @@ have the data for the last region mod merged into it.
 
 
 [CREDITS]
-Norgad - Region artwork
-Garrakx - Custom region support
-AndrewFM - Dragging me through a year of MSC work, and keeping me lurking around the community~
+Norgad - https://twitter.com/norgadart - Region artwork
+Garrakx - https://twitter.com/Garrakx - Custom region support
+AndrewFM - https://twitter.com/AndrewFM - Dragging me through a year of MSC work, and keeping me lurking around the community~
 Willbird - Region planning and rooms, basic testing
 Enderzilla - Testing(Hunter)
-Snail Turtle - Testing(Survivor)
+Snail Turtle - https://www.youtube.com/channel/UCuA8ZIbXK2Uuc7rXOrmvg1w - Testing(Survivor)
 Devian Morgenstern - Testing(Survivor)
 
 
