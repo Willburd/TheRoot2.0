@@ -1,5 +1,5 @@
 ===<THE ROOT>===
-Ver. 2.0
+Ver. 2.1
 RAIN WORLD v1.5
 REGION EXPANSION 
 
@@ -17,6 +17,8 @@ adding more rainworld for fans to explore. As well as expanding routing options 
 and Subterranean! Along with a new surprise gate location to replace the first version of the 
 mod's connection into five pebbles. Which was removed due to being too daddy longleg focused,  
 in a region that wasn't really connected to their theme too strongly. 
+
+2.1 - Tweaked PB subregion, new shelter, spawns updated, food added.
 
 
 
