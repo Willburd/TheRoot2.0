@@ -1,6 +1,6 @@
 ROOMS
 GATE_SB_TR : DISCONNECTED, TR_ROOT01 : GATE
-GATE_TR_SH : TR_S01, DISCONNECTED, TR_ROOT33 : GATE
+GATE_TR_SH : TR_S01, DISCONNECTED, TR_ROOT61 : GATE
 GATE_UW_TR : DISCONNECTED, TR_ROOT45 : GATE
 TR_S01 : GATE_TR_SH : SHELTER
 TR_ROOT01 : GATE_SB_TR, TR_ROOT02, TR_ROOT04
@@ -38,8 +38,11 @@ TR_ROOT29 : TR_S02, TR_ROOT30, TR_ROOT28
 TR_S02 : TR_ROOT29 : SHELTER
 TR_ROOT30 : TR_ROOT29, TR_ROOT31, TR_ROOT39
 TR_ROOT31 : TR_ROOT30, TR_ROOT32, TR_ROOT38
-TR_ROOT32 : TR_ROOT33, TR_ROOT31, DISCONNECTED, TR_ROOT37 : SWARMROOM
-TR_ROOT33 : GATE_TR_SH, TR_ROOT32, TR_ROOT34
+TR_ROOT32 : TR_ROOT33, TR_ROOT31, TR_S09, TR_ROOT37 : SWARMROOM
+TR_S09 : TR_ROOT32 : SHELTER
+TR_ROOT33 : TR_ROOT60, TR_ROOT32, TR_ROOT34
+TR_ROOT60 : TR_ROOT61, TR_ROOT33
+TR_ROOT61 : GATE_TR_SH, TR_ROOT60
 TR_ROOT34 : TR_ROOT35, TR_ROOT33
 TR_ROOT35 : TR_ROOT36, TR_ROOT34
 TR_ROOT36 : TR_ROOT35, TR_ROOT37
@@ -85,6 +88,7 @@ TR_ROOT21 : 5-Salamander
 TR_ROOT15 : 3-Salamander
 TR_ROOT07 : 7-Yellow-3
 TR_ROOT13 : 7-Yellow-3, 5-BigNeedleWorm, 5-SmallNeedleWorm-5
+TR_ROOT61 : 4-Lantern Mouse-5
 LINEAGE : TR_ROOT07 : 5 : Eggbug-0.1, Blue-0.3, Yellow-0.2, Cyan-0.2, Red-0.0
 LINEAGE : TR_ROOT13 : 4 : Eggbug-0.1, Yellow-0.3, Cyan-0.2, Centipede-0.2, Red Centipede-0.0
 (0)LINEAGE : TR_ROOT52 : 2 : White-0.1, Cyan-0.2, SpitterSpider-0.0
@@ -105,8 +109,10 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (0)TR_ROOT50 : 4-White
 (0)TR_ROOT56 : 2-Tube, 3-Tube-2
 (0)TR_ROOT43 : 3-Lantern Mouse-3
-(0)TR_ROOT51 : 4-BigSpider-3
-(0)TR_ROOT33 : 3-BigSpider-2, 6-Black, 8-Black, 19-Black
+(0)TR_ROOT51 : 4-BigSpider
+(0)TR_ROOT33 : 6-Black, 8-Black, 19-Black
+(0)TR_ROOT61 : 3-Black
+(0)TR_ROOT60 : 2-BigSpider-2
 (0)TR_ROOT39 : 3-BigSpider, 4-TentaclePlant
 (0)TR_ROOT45 : 2-Blue
 (0)TR_ROOT01 : 8-Yellow-2, 15-Salamander, 10-Small Centipede-3
@@ -132,6 +138,7 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (1)TR_ROOT43 : 3-Lantern Mouse-3
 (1)TR_ROOT51 : 4-Daddy
 (1)TR_ROOT33 : 6-Black, 8-Black, 19-Black
+(1)TR_ROOT60 : 2-BigSpider
 (1)TR_ROOT39 : 3-BigSpider
 (1)TR_ROOT01 : 8-Yellow-2, 10-Small Centipede-4
 (1)TR_ROOT42 : 3-Blue-2
@@ -156,7 +163,9 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (2)TR_ROOT56 : 2-SpitterSpider-2, 3-SpitterSpider
 (2)TR_ROOT43 : 3-BigSpider-3
 (2)TR_ROOT51 : 4-BigSpider-4
-(2)TR_ROOT33 : 3-SpitterSpider, 6-Black, 8-Black, 19-Black
+(2)TR_ROOT33 : 6-Black, 8-Black, 19-Black
+(2)TR_ROOT60 : 2-TentaclePlant
+(2)TR_ROOT61 : 3-SpitterSpider
 (2)TR_ROOT31 : 8-TentaclePlant
 (2)TR_ROOT39 : 3-BigSpider, 4-TentaclePlant
 (2)TR_ROOT45 : 2-Cyan

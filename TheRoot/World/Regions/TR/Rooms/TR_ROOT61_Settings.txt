@@ -1,0 +1,8 @@
+Template: TR_SettingsTemplate_RailYard
+DangerType: FloodAndRain
+Clouds: 0
+Palette: 10
+Effects: BkgOnlyLightning-0-27-80, GreenSparks-0-26-134, LightBurn-0.2065217-20-20, FireFlies-0.09782609-286-22, 
+PlacedObjects: Mushroom><3348.499><384.95><0~0~2~3, Mushroom><3370.474><390.9483><0~0~2~3, Mushroom><1295.642><355.8907><0~0~2~3, Mushroom><1265.679><337.6601><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.01086956><0.1, OMNI><AM_ENV-NatWind.ogg><875.2075><567.8046><0.173913><1, OMNI><AM_ENV-CityTone.ogg><695.4462><642.4615><0.2608696><0.8826087, OMNI><AM_RAIN-RollingThunder.ogg><516.051><644.0197><0.2173913><1, 
+FadePalette: 5, 0.173913, 0.1847826, 0.1956522, 0.2065217, 0.01086957, 0, 0.04347826, 0.01086957, 0

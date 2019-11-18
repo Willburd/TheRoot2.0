@@ -1,0 +1,8 @@
+Template: TR_SettingsTemplate_RailYard
+Clouds: 0
+Palette: 10
+Effects: BkgOnlyLightning-0.1195652-27-80, GreenSparks-0.0326087-26-134, LightBurn-0.2065217-20-20, FireFlies-0.2173913-286-22, 
+PlacedObjects: LightSource><716.2018><443.1941><0.06521739~Environment~-454~121~-106~145.6025~1~0, LightSource><496.1296><405.1597><0.2173913~White~-310~-410~-286~-330.3975~1~0, LightSource><220.3676><495.8383><0.09782609~Environment~811~-296~-325~-163.3975~1~0, DangleFruit><704.9012><309.119><0~0~2~3, DangleFruit><830.9308><300.3354><48~-208~2~3, DangleFruit><806.5635><255.3223><67~-255~2~3, DangleFruit><790.1362><519.4144><0~0~2~3, NoSpearStickZone><38.69531><210.4569><0~100, FlareBomb><256.6987><336.7732><0~0~2~3, FlareBomb><492.4075><232.5726><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.01086956><0.1, OMNI><AM_ENV-NatWind.ogg><875.2075><567.8046><0.2826087><1, SPOT><AM_ENV-LushNight.ogg><680.6631><520.6802><0.3586957><1><-150.3369><705.6802><283.6447><-159.3553><0><0.752174, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_SH_CRYPTS<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>635.3018<tB>468.2768<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>111, 
+FadePalette: 5, 0.1086956, 0.1086956, 0.07608695, 0.04347826, 0.01086957, 0

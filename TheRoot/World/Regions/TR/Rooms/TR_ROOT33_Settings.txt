@@ -4,6 +4,4 @@ Palette: 10
 Effects: BkgOnlyLightning-0-27-80, GreenSparks-0-26-134, LightBurn-0.2065217-20-20, FireFlies-0.1195652-286-22, 
 PlacedObjects: LightSource><333.8095><385.4523><0.1520154~Environment~199~252~50~86.60254~1~0, LightSource><-51.85211><530.4439><0.09782609~Environment~362~-511~50~86.60254~1~0, LightSource><2869.947><648.7852><0.2826087~Environment~-536~-120~-415~-130.3975~1~0, DangleFruit><5838.877><544.6575><0~0~2~3, DangleFruit><5867.809><504.4416><0~0~2~3, DangleFruit><3210.676><535.3456><0~0~2~3, DangleFruit><3232.658><511.373><0~0~2~3, DangleFruit><1279.839><611.1191><0~0~2~3, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.01086956><0.1, OMNI><AM_ENV-NatWind.ogg><875.2075><567.8046><0.2826087><1, 
-Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_SH_CRYPTS<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>720.0974<tB>508.1293<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
 FadePalette: 5, 0.1304348, 0.1086956, 0.07608695, 0.04347826, 0.01086957, 0
-RoomSpecificScriptActive: ON
