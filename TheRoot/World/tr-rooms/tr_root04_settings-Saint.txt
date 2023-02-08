@@ -1,0 +1,14 @@
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.5453867
+WaveLength: 0.9773067
+WaveAmplitude: 9.480172E-10
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0
+Palette: 0
+Effects: Coldness-1-24-82, 
+PlacedObjects: LightSource><469.1998><1571.76><0.3695652~Environment~-146~-577~-42~-433.3975~1~1~None~0~0, LightBeam><474.8282><523.8527><-141~1084~140~1088~117~2~363~67~0.5739123~0.2717391~0~1~None~0~0, LightSource><607.1788><869.5631><0.2173913~Environment~-191~257~-103~77.60254~1~1~None~0~0, LightSource><565.4477><707.7197><0.1956522~Environment~74~-312~47~-22.39746~1~1~None~0~0, DangleFruit><227.5647><582.5753><0~0~2~3, DangleFruit><265.8229><604.3137><0~0~2~3, 
+AmbientSounds: SPOT><AM_ENV-SubTerr.ogg><875.2136><529.6967><0.5><1><476.2136><333.6967><-752.3553><314.6447><0><1, SPOT><AM_WIN-SubWnd.ogg><701.3535><532.1139><0.3369565><1><490.3535><1581.114><30.64465><-109.3553><0><1, 
+FadePalette: 8, 0.7282609, 0.8478261
+WetTerrain: OFF

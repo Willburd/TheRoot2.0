@@ -1,0 +1,13 @@
+Template: TR_SettingsTemplate_Maw
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.7039689
+WaveLength: 0.8980156
+WaveAmplitude: 1.112134E-06
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+PlacedObjects: SnowSource><872.2225><1379.802><Radial~-813~-390~87~-55.39746~0.4891304~1, SnowSource><454.8><735.7512><Radial~442~364~50~86.60254~0.6304348~1, SnowSource><577.0713><394.6602><Radial~-653~278~50~86.60254~0.3695652~1, LightSource><131.3745><1217.844><0.3478263~Environment~1517~-832~153~-86.39746~1~1~None~0~0, LocalBlizzard><891.8184><1440.688><-541~168~44~-280.3975~0.75~0.4456522~0.9130435, 
+AmbientSounds: SPOT><AM_WIN-SubWnd.ogg><820.5426><554.8046><0.6195652><0.9413043><-56.45737><1319.805><571.6447><-330.3553><0><1, 
+FadePalette: 8, 0.2608696, 0.326087
+WetTerrain: OFF

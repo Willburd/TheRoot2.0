@@ -1,0 +1,7 @@
+[MERGE]
+Room_Attr: UW_ROOTACCESS01: WhiteLizard-3,Vulture-1,Overseer-2,KingVulture-1,
+Room_Attr: UW_ROOTACCESS02: WhiteLizard-2,Vulture-1,Overseer-2,KingVulture-1,
+Room_Attr: UW_ROOTACCESS03: WhiteLizard-3,Vulture-1,Overseer-2,KingVulture-1,
+Room_Attr: UW_ROOTACCESS04: WhiteLizard-2,Vulture-1,Overseer-2,KingVulture-1,
+Room_Attr: UW_ROOTACCESS05: Vulture-1,Overseer-2,KingVulture-1,
+[ENDMERGE]

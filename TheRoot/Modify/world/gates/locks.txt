@@ -1,0 +1,6 @@
+[MERGE]
+GATE_SB_TR : 4 : 3
+GATE_TR_SH : 2 : 4
+GATE_UW_TR : 1 : 1
+GATE_TR_CL : 4 : 1
+[ENDMERGE]

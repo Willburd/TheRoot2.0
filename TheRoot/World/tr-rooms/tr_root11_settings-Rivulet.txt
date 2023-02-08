@@ -1,0 +1,4 @@
+Palette: 4
+Effects: LightBurn-0-30-30, Darkness-0.1086956-40-96, Desaturation-0.5217391-297-35, LightRain-0.2717391-305-97, 
+PlacedObjects: NoSpearStickZone><2637.171><1151.353><-6~136, NoSpearStickZone><449.8981><1253.865><27~170, Mushroom><2103.444><333.2975><0~0~2~3, Mushroom><2722.064><290.3228><0~0~2~3, Mushroom><2755.341><297.428><0~0~2~3, 
+FadePalette: 3, 0.1086956, 0.1086956, 0.09782609, 0.5543478, 0.5652174, 0.5652174

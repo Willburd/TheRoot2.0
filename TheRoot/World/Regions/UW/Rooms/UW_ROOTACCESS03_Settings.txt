@@ -1,9 +1,0 @@
-Template: UW_SettingsTemplate_Underhang
-RainIntensity: 0
-RumbleIntensity: 0.4782609
-EffectColorA: 18
-EffectColorB: 5
-Effects: ElectricDeath-1-278-21, 
-PlacedObjects: LightFixture><77.30463><93.04269><RedLight~17.32051~-10~65, 
-AmbientSounds: SPOT><AM_ENV-WallHum.ogg><834.3665><536.8511><0.2826087><0.8043478><-84.63354><705.8511><549.6447><-313.3553><0><0.4804349, SPOT><SO_IND-HeatDuct.ogg><653.2828><538.8027><0.4782609><1><746.2828><636.8027><-293.3553><-175.3553><0><0.2630436, OMNI><AM_ENV-NatWind.ogg><653.4124><651.9298><0.3369565><1, 
-FadePalette: 17, 0.4782609

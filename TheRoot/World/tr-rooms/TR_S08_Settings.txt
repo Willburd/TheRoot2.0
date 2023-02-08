@@ -1,0 +1,7 @@
+Template: TR_SettingsTemplate_Leg
+RainIntensity: 0
+RumbleIntensity: 0.4782609
+Effects: GreenSparks-0.2065217-18-70, 
+PlacedObjects: LightFixture><537.3536><129.8667><RedLight~17.32051~-10~61, LightFixture><781.67><332.8965><RedLight~17.32051~-10~41, SteamPipe><415.5936><382.0733><41~33, SteamPipe><413.3984><256.0777><22~22, SteamPipe><363.3286><323.1469><-69~5, SteamPipe><482.5118><249.4496><15~-48, SteamPipe><749.3574><398.6403><-55~-1, SteamPipe><733.4166><301.3182><20~28, SteamPipe><790.5837><398.3184><-17~31, WallSteamer><698.6893><370.5645><30~41, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><832.9337><538.421><0.5><1><299.9337><677.421><-138.3553><-191.3553><0><0.3717393, 
+FadePalette: 17, 0.4673913

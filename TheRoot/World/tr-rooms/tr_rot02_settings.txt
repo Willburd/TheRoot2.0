@@ -1,0 +1,11 @@
+Template: TR_SettingsTemplate_Husk
+CeilingDrips: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 3.807339E-13
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Fog-0.4782609-60-86, 
+PlacedObjects: SnowSource><338.5715><317.5902><Radial~1~120~50~86.60254~0.5978261~0.8260869, SnowSource><206.6849><445.3109><Radial~189~-40~50~86.60254~0.4891304~1, 
+FadePalette: 8, 0.3695652
+WetTerrain: OFF

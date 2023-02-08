@@ -1,0 +1,2 @@
+Template: TR_SettingsTemplate_Pipes
+FadePalette: 4, 0.1630435

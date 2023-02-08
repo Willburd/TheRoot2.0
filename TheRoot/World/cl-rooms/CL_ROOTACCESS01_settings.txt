@@ -1,0 +1,12 @@
+Template: CL_SettingsTemplate_DarkSun
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3695652
+EffectColorB: 13
+AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><752.5625><486.9305><0.4673913><0.823913><878.5625><300.9305><-226.3553><-46.35535><0><0.2195653, OMNI><AM_ENV-CityTone.ogg><757.4397><603.9366><0.2282609><1, OMNI><AM_WIN-SubWnd.ogg><574.5345><601.303><0.3586957><1, SPOT><SO_WAT-MoreDrips.ogg><577.5754><483.0976><0.3695652><1><189.5754><563.0976><-281.3553><-174.3553><0><0.3391306, SPOT><MSC-ShadowAlley.ogg><741.3134><270.178><0.4565217><1><978.3135><-17.82196><-325.3553><192.6447><0><0.3934784, 
+FadePalette: 0, 0.3152174
