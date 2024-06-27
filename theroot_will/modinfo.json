@@ -1,9 +1,9 @@
 {
-	"id": "underpass_will",
-	"name": "Underpass",
-	"authors": "Dakras, Willbird, Enderzilla, Facecat, Bro,"
+	"id": "theroot_will",
+	"name": "The Root 2.5",
+	"authors": "Willbird, Facecat, Norgad, Enderzilla, Bro",
 	"description": "Butts butts butts",
-	"requirements": ["regionkit","crs","lb-fgf-m4r-ik.coral-reef","lb-fgf-m4r-ik.swalkins","lb-fgf-m4r-ik.waterblobs"],
-	"requirements_names": ["RegionKit","Custom Regions Support","Coral Caves Custom Creatures","Surface Swimmers","Water Blobs"],
+	"requirements": ["regionkit","crs"],
+	"requirements_names": ["RegionKit","Custom Regions Support"],
 	"checksum_override_version": false
 }
