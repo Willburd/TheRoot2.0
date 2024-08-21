@@ -1,0 +1,12 @@
+Template: TR_SettingsTemplate_Leg
+DangerType: Flood
+RainIntensity: 0.8152174
+RumbleIntensity: 0.8804348
+WaveSpeed: 0.4826524
+WaveLength: 0.8627936
+WaveAmplitude: 0.0339631
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: LightBurn-0.1847826-22-83, GreenSparks-0.09782609-279-86, Lightning-0.4456522-25-18, 
+PlacedObjects: LightFixture><795.9031><874.6287><RedLight~17.32051~-10~78, LightFixture><186.9143><1976.386><RedLight~17.32051~-10~67, LightFixture><816.7867><4321.804><RedLight~17.32051~-10~84, 
+FadePalette: 17, 0.5108696, 0.5434783, 0.5543478, 0.5869565, 0.5760869, 0.6195652
