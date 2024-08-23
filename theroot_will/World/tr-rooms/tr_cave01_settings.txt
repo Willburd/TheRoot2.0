@@ -1,0 +1,5 @@
+Template: TR_SettingsTemplate_Leg
+DangerType: Flood
+Effects: Lightning-0.1847826-30-30, LightBurn-0.25-34-100, 
+PlacedObjects: LightFixture><969.679><496.563><RedLight~17.32051~-10~76, LightFixture><550.8241><284.5642><RedLight~17.32051~-10~52, LightFixture><205.5532><612.7855><RedLight~17.32051~-10~71, 
+FadePalette: 17, 0.8586956
