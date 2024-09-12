@@ -1,6 +1,9 @@
+Template: TR_SettingsTemplate_RailYard
 DangerType: Flood
 BkgDroneVolume: 0
 Palette: 10
-Effects: FireFlies-0.1847826-23-78, 
+EffectColorB: 17
+Effects: FireFlies-0.1847826-294-34, GreenSparks-0-285-90, 
+PlacedObjects: InsectGroup><468.3888><426.144><161~177~0~0~FireFly~0.3152174, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><872.3051><642.455><0.01086956><0.1, OMNI><AM_ENV-NatWind.ogg><875.2075><567.8046><0.08695652><1, OMNI><AM_RAIN-RollingThunder.ogg><516.051><644.0197><0.2391304><1, OMNI><SO_WAT-MoreDrips.ogg><688.593><567.1239><0.5><1, OMNI><SO_WAT-ProperDrips.ogg><512.3002><566.2408><0.5434783><0.823913, OMNI><am_env-outside.ogg><684.6654><484.8624><0><0.726087, 
-FadePalette: 5, 0.05434782
+FadePalette: 5, 0.08695652
