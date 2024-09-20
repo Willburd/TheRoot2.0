@@ -1,0 +1,10 @@
+Template: TR_SettingsTemplate_Leg
+CeilingDrips: 0
+WaveSpeed: 0.4136658
+WaveLength: 0.9568329
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Lightning-0.1195652-30-30, 
+FadePalette: 17, 0.8369565
+WetTerrain: OFF

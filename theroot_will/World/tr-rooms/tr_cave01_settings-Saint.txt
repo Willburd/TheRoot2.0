@@ -1,0 +1,14 @@
+Template: TR_SettingsTemplate_Leg
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Lightning-0-30-30, HeatWave-0.2282609-44-94, 
+PlacedObjects: LightFixture><969.679><496.563><RedLight~17.32051~-10~76, LightFixture><550.8241><284.5642><RedLight~17.32051~-10~52, LightFixture><205.5532><612.7855><RedLight~17.32051~-10~71, 
+FadePalette: 17, 0.8586956
+WetTerrain: OFF

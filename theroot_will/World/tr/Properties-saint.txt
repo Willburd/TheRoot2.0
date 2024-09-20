@@ -11,7 +11,7 @@ overseersMax: 3
 playerGuideOverseerSpawnChance: 0.1
 Subregion: The Root
 Subregion: Coastline Railway
-Subregion: Penumbral Basin
+Subregion: Lost Grove
 Subregion: Rotten Maw
 Room Setting Templates: Railway, Pipes, RailYard, Leg, Maw, Husk
 Room_Attr: GATE_SB_TR: YellowLizard-Forbidden,
