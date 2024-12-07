@@ -1,14 +1,14 @@
 DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.5231349
-WaveLength: 0.9884325
-WaveAmplitude: 5.269688E-05
+WaveSpeed: 0.7457093
+WaveLength: 0.8771453
+WaveAmplitude: 2.283042E-07
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 0
 Effects: LightBurn-0.2934783-30-30, Coldness-1-29-90, 
 PlacedObjects: NoSpearStickZone><4638.335><424.9309><15~168, NoSpearStickZone><206.0501><357.4942><31~153, FirecrackerPlant><2075.674><241.4349><0~0~2~3, FirecrackerPlant><2120.948><205.2766><0~0~2~3, FirecrackerPlant><4377.879><221.4101><-78~135~2~3, FirecrackerPlant><4329.198><219.2607><-107~224~2~3, FirecrackerPlant><4289.897><213.6747><-301~312~2~3, ReliableSpear><4627.94><225.9368><, ReliableSpear><4676.836><247.8196><, SnowSource><316.3569><238.6691><Radial~1303~637~50~86.60254~0.5~1, SnowSource><-114.694><363.7015><Radial~524~228~50~86.60254~0.3478261~0.8804348, SnowSource><1327.412><188.3834><Radial~471~324~50~86.60254~0.5217391~1, SnowSource><3110.56><321.6889><None~-1330~329~50~86.60254~0.4021739~1, SnowSource><5112.471><380.0521><Radial~-1281~-309~-462~-367.3975~0.6413044~1, 
-AmbientSounds: SPOT><AM_ENV-WindGrass.ogg><864.4455><531.0421><0.3913043><1><2965.445><81.01587><-541.3553><-133.3553><0><1, SPOT><AM_ENV-SubTerr.ogg><690.9495><530.264><0.25><1><5130.95><-21.73602><-401.3553><68.64465><0><0.6326088, SPOT><SO_WAT-LilDrips.ogg><698.4365><409.4396><0.2717391><1><536.4365><12.43964><-137.3553><-90.35535><0><0.4478262, 
+AmbientSounds: SPOT><AM_ENV-WindGrass.ogg><864.4455><531.0421><0.3913043><1><2965.445><81.01587><-541.3553><-133.3553><0><1, SPOT><AM_ENV-SubTerr.ogg><690.9495><530.264><0.25><1><5130.95><-21.73602><-401.3553><68.64465><0><0.6326088, SPOT><SO_WAT-LilDrips.ogg><698.4365><409.4396><0.2717391><1><536.4365><12.43964><-137.3553><-90.35535><0><0.4478262, OMNI><AM_ENV-NatWind.ogg><518.5536><645.5377><0.3369565><1, OMNI><AM_ENV-Outside.ogg><868.9468><647.2142><0><1, OMNI><AM_ENV-LightWind.ogg><693.0651><647.6891><0><1, 
 Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_16 - Shoreline<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>493.3959<tB>497.8632<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>Rivulet|Artificer|Saint|Spear|Gourmand, 
 FadePalette: 3, 0.2717391, 0.2717391, 0.2717391, 0.2608696, 0.2173913
 WetTerrain: OFF

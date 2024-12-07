@@ -1,13 +1,14 @@
 DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.4778376
-WaveLength: 0.9889188
-WaveAmplitude: 0.005393645
+WaveSpeed: 0.7159091
+WaveLength: 0.8920454
+WaveAmplitude: 1.298202E-08
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 0
 Effects: Coldness-1-19-81, 
 PlacedObjects: NoSpearStickZone><250.4336><1817.311><-1~187, NoSpearStickZone><740.2633><2223.95><13~185, DangleFruit><737.8337><983.9316><0~0~2~3, DangleFruit><751.95><890.7507><0~0~2~3, DangleFruit><107.282><1376.697><0~0~2~3, ReliableSpear><290.05><149.0564><, ReliableSpear><337.8888><162.4163><, ReliableSpear><377.064><209.4395><, ReliableSpear><645.8773><69.09204><, ReliableSpear><597.1642><92.3642><, SnowSource><524.6196><1493.66><None~-756~853~311.0001~305.6025~0.4565217~1, SnowSource><-173.1344><1797.648><Radial~336~187~50~86.60254~0.6086956~0.7608696, SnowSource><750.9399><151.1875><Radial~118~271~50~86.60254~1~1, SnowSource><453.6262><9.092941><Radial~-274~404~365~106.6025~0.7717391~0.9456522, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><514.8195><645.3361><0.3369565><1, OMNI><AM_ENV-Outside.ogg><868.9468><647.2142><0><1, OMNI><AM_ENV-LightWind.ogg><693.0651><647.6891><0><1, 
 Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_16 - Shoreline<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>489.0703<tB>420.6624<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>Rivulet|Artificer|Saint|Spear|Gourmand, 
 FadePalette: 3, 0.2065217, 0.2717391, 0.2391304
 WetTerrain: OFF

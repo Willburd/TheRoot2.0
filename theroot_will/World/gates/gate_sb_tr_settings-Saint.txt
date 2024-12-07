@@ -5,7 +5,7 @@ RainIntensity: 0
 RumbleIntensity: 0
 WaveSpeed: 0.5
 WaveLength: 1
-WaveAmplitude: 5.605194E-45
+WaveAmplitude: 4.609769E-28
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.1195652
@@ -16,6 +16,6 @@ EffectColorA: 18
 EffectColorB: 21
 Effects: LightBurn-0.4021739-20-20, Coldness-1-25-81, 
 PlacedObjects: NoSpearStickZone><478.5829><252.318><-236~137, LightSource><743.3597><175.4172><0.3478261~Environment~-439~530~-403~352.6025~1~0~None~0~0, LightSource><106.6999><344.5068><0.1086956~Environment~-256~433~50~86.60254~1~1~None~0~0, LightSource><864.196><376.4606><0.1413043~Environment~-368~264~50~86.60254~1~1~None~0~0, ExitSymbolShelter><228.2977><110.6942><, SnowSource><50.56116><228.3096><None~-1~182~-112~111.6025~0.3369565~1, SnowSource><860.7172><239.4473><None~-69~183~-211~201.6025~0.4565217~1, 
-AmbientSounds: SPOT><AM_IND-DeepHum.ogg><78.57001><473.1873><0.3913043><1><464.57><-39.81265><-132.3553><-32.35534><0><0.3173914, OMNI><AM_SUB-BlankState.ogg><829.9221><646.3518><0.326087><1, SPOT><AM_ENV-Outside.ogg><836.6651><533.3871><0.5><1><864.665><353.3871><-726.3553><-22.35535><0><1, SPOT><AM_ENV-LightWind.ogg><651.4069><599.874><0.3913043><1><954.407><520.874><-573.3553><-156.3553><0><1, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><78.57001><473.1873><0.3913043><1><464.57><-39.81265><-132.3553><-32.35534><0><0.3173914, OMNI><AM_SUB-BlankState.ogg><829.9221><646.3518><0.326087><1, 
 FadePalette: 3, 0.1195652
 WetTerrain: OFF

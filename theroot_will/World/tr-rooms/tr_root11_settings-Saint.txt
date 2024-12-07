@@ -1,12 +1,13 @@
 DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.3255595
-WaveLength: 0.9127797
-WaveAmplitude: 2.780115E-05
+WaveSpeed: 0.5703565
+WaveLength: 0.9648218
+WaveAmplitude: 8.930472E-14
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 0
 Effects: LightBurn-0.1847826-30-30, Coldness-1-30-88, 
 PlacedObjects: NoSpearStickZone><2637.171><1151.353><-6~136, NoSpearStickZone><449.8981><1253.865><27~170, Mushroom><2103.444><333.2975><0~0~2~3, Mushroom><2722.064><290.3228><0~0~2~3, Mushroom><2755.341><297.428><0~0~2~3, SnowSource><1130.634><1314.663><None~-1186~-664~-227~-155.3975~0.4565217~1, SnowSource><-218.0511><1184.229><Radial~647~-133~91~-184.3975~0.4565217~1, SnowSource><2988.186><1052.574><Radial~-937~-482~-348~-9.397461~0.7934783~1, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><693.0651><647.6891><0><1, OMNI><AM_ENV-Outside.ogg><868.9468><647.2142><0><1, OMNI><AM_ENV-NatWind.ogg><867.9423><572.1952><0.3369565><1, 
 FadePalette: 3, 0.2282609, 0.2065217, 0.2391304, 0.5434783, 0.5652174, 0.5652174
 WetTerrain: OFF

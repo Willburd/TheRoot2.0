@@ -1,0 +1,11 @@
+Template: TR_SettingsTemplate_Husk
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 1.485545E-40
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 10
+FadePalette: 0, 0.09782609, 0.1195652, 0.1195652, 0.06521739, 0.06521739, 0.0326087
+WetTerrain: OFF
