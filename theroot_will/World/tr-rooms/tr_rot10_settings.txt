@@ -1,0 +1,12 @@
+Template: TR_SettingsTemplate_Husk
+CeilingDrips: 0
+RumbleIntensity: 0.6630435
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 8.157642E-32
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: LightBurn-0.4130435-329-89, BrokenZeroG-0.01086957-314-28, 
+PlacedObjects: SnowSource><255.0533><1253.963><Radial~445~16~-319~-195.3975~0.5~0.8804348, SnowSource><638.0726><1096.436><Radial~195~279~235.9999~69.60254~0.3913043~1, Corruption><613.1021><1267.672><-17~59, Corruption><679.7753><843.8016><0~100, Corruption><673.3013><618.0225><0~100, 
+FadePalette: 10, 0.4565217, 0.5760869
+WetTerrain: OFF
