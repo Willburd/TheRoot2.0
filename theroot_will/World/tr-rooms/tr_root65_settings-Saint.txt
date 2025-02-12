@@ -3,13 +3,13 @@ DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-WaveSpeed: 0.5
-WaveLength: 0.75
-WaveAmplitude: 0.04075343
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Effects: Lightning-0-18-16, 
 PlacedObjects: LightFixture><86.0683><270.1664><RedLight~17.32051~-10~86, LightFixture><943.051><203.2705><RedLight~17.32051~-10~26, LightFixture><930.1833><632.4386><RedLight~17.32051~-10~84, 
-AmbientSounds: SPOT><am_ind-fabrik02.ogg><829.8112><528.816><0.3695652><1><548.8112><680.816><-11.35535><-247.3553><0><0.578261, SPOT><am_ind-utility01.ogg><651.0584><531.8074><0.4021739><1><852.0584><487.8074><-380.3553><-118.3553><0><0.5565219, SPOT><am_ind-utility03.ogg><826.6414><419.8585><0.5><1><204.6414><574.8585><95.64465><-49.35535><0><0.2956523, SPOT><so_wat-splashes.ogg><636.5502><418.9924><0.1521739><1><-57.44983><382.9924><-69.35535><-240.3553><0><0.5456523, 
+AmbientSounds: SPOT><am_ind-fabrik02.ogg><829.8112><528.816><0.3695652><1><548.8112><680.816><-11.35535><-247.3553><0><0.578261, SPOT><am_ind-utility01.ogg><651.0584><531.8074><0.4021739><1><852.0584><487.8074><-380.3553><-118.3553><0><0.5565219, SPOT><am_ind-utility03.ogg><826.6414><419.8585><0.5><1><204.6414><574.8585><95.64465><-49.35535><0><0.2956523, SPOT><so_wat-splashes.ogg><636.5502><418.9924><0.1521739><1><-57.44983><382.9924><-69.35535><-240.3553><0><0.5456523, OMNI><AM_RAIN-QuietThunder.ogg><657.8256><646.6521><0><1, 
 FadePalette: 17, 0.6630435
 WetTerrain: OFF
