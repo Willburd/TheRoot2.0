@@ -1,15 +1,17 @@
-Template: TR_SettingsTemplate_Leg
-DangerType: Flood
+Template: tr_settingstemplate_leg
+DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0
-WaveSpeed: 0.51
+WaveSpeed: 0.5
 WaveLength: 1
-WaveAmplitude: 0.0001
+WaveAmplitude: 4.881414E-38
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
+Palette: 0
+EffectColorA: 21
 Effects: Lightning-0-30-30, 
-PlacedObjects: LightFixture><675.4241><1959.9><RedLight~17.32051~-10~52, LightFixture><89.44997><901.5118><RedLight~17.32051~-10~80, LightFixture><294.2251><1392.302><RedLight~17.32051~-10~0, LightFixture><420.9416><84.9425><RedLight~17.32051~-10~53, LightFixture><52.54985><607.0025><RedLight~17.32051~-10~75, 
-AmbientSounds: OMNI><AM_RAIN-QuietThunder.ogg><657.8256><646.6521><0><0.1, 
-FadePalette: 17, 0.6630435, 0.6847826, 0.7065217
+PlacedObjects: LightFixture><89.44997><901.5118><RedLight~17.32051~-10~80, LightFixture><420.9416><84.9425><RedLight~17.32051~-10~53, LightFixture><52.54985><607.0025><RedLight~17.32051~-10~75, SnowSource><680.9343><2055.459><Radial~-1022~-753~90.88074~-140.512~0.5218798~1, LocalBlizzard><737.8907><1905.392><-893~13~-523~26.60254~0.3561249~1~0.9130435, SteamPipe><90.55072><282.2323><25~5, SteamPipe><89.09671><292.3107><41~26, SteamPipe><98.90094><283.1188><40~-28, 
+AmbientSounds: OMNI><AM_RAIN-QuietThunder.ogg><657.8256><646.6521><0><1, SPOT><so_wat-splashes.ogg><750.3687><306.8492><0.2065217><1><-191.6314><1499.849><371.6447><-89.35535><0><0.6652175, 
+FadePalette: 17, 0.5, 0.7826087, 0.8586956
 WetTerrain: OFF

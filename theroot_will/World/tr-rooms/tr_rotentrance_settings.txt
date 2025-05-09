@@ -1,11 +1,23 @@
-Template: TR_SettingsTemplate_Husk
+Template: tr_settingstemplate_husk
 CeilingDrips: 0
-WaveSpeed: 0.5
-WaveLength: 1
-WaveAmplitude: 5.605194E-45
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.6617005
+WaveLength: 0.9191498
+WaveAmplitude: 3.092251E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 EffectColorA: 3
+TerrainLight: 0.5
+TerrainStainAmount: 0.173913
+TerrainStainBrightness: 0.3043478
+TerrainStainHeight: 0.25
+TerrainWaves: 0.3043478
+TerrainEdgeRadius: 157.826
+TerrainGrain: 0.7086951
+TerrainDepth: -10
+TerrainSkyFade: 0
+TerrainPalette: NO PALETTE
 Effects: BrokenZeroG-0.6413044-302-20, 
 PlacedObjects: GravityDisruptor><1676.445><1449.954><, Corruption><1782.699><1438.274><0~100, Corruption><166.4493><1756.557><10~158, Corruption><2738.809><1922.941><15~158, Corruption><2653.82><2432.385><0~100, Corruption><887.0905><1338.635><100~152, Corruption><157.1026><1052.956><15~143, Corruption><2172.242><237.9502><19~145, Corruption><2840.376><284.9617><-10~173, Corruption><2057.286><478.5571><24~151, Corruption><2644.359><131.3508><0~100, SnowSource><1074.84><551.929><Radial~1252~-206~50~86.60254~0.4338996~1, SnowSource><250.8791><668.5063><Radial~715~287~-264.9968~-89.39307~0.2826087~1, SnowSource><2642.83><1163.892><Radial~-710~742~222~135.6025~0.4785714~1, LocalBlizzard><2863.512><1552.261><-952~867~50~86.60254~0.652162~1~0.9453218, SnowSource><1186.55><2711.76><Radial~1211~408~50~86.60254~0.608969~1, SnowSource><1844.306><2683.048><Radial~-311~240~50~86.60254~0.6637546~0.7272922, SnowSource><2494.438><2638.394><Radial~705~508~50~86.60254~0.5760869~1, LocalBlizzard><1562.159><2940.408><-1046~658~-362.0422~-237.5208~0.2391364~0.5~0.8807545, SnowSource><519.82><1257.085><Radial~625~243~50~86.60254~0.325523~1, Corruption><2897.188><1099.934><-112~245, LightFixture><292.7903><483.0113><RedLight~17.32051~-10~6, LightFixture><742.4823><413.8008><RedLight~17.32051~-10~98, Corruption><1297.27><580.449><0~100, Corruption><656.8471><2849.323><0~100, 
 AmbientSounds: SPOT><AM_WIN-StrongWnd2.ogg><817.4496><563.7382><0.5543478><1><2935.449><1572.738><-427.3553><-311.3553><0><0.6434784, SPOT><AM_WIN-HowlingWnd.ogg><816.4465><450.0374><0.3369565><0.823913><3012.446><1530.037><-766.3553><-57.35535><0><0.9913045, SPOT><AM_WIN_Hilltop.ogg><817.3752><332.3441><0.5978261><1><1589.374><2976.345><-648.3553><-268.3553><0><0.654348, SPOT><AM_ENV-SubTerr.ogg><618.6356><330.836><0.5><1><2535.625><104.8264><-629.3553><668.6447><0><1, SPOT><AM_ENV-WallHum.ogg><640.8><218.7452><0.3804348><1><368.7864><340.8305><-344.3553><-183.3553><0><0.2847827, 

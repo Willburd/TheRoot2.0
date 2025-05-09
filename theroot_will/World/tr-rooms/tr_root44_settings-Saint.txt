@@ -1,0 +1,29 @@
+Template: tr_settingstemplate_husk
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0
+WaveSpeed: 0.272122
+WaveLength: 0.886061
+WaveAmplitude: 1.806382E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.7391304
+TerrainLight: 0.4347826
+TerrainStainAmount: 0.4782609
+TerrainStainBrightness: 0.6086956
+TerrainStainHeight: 1
+TerrainWaves: 0.5326087
+TerrainEdgeRadius: 123.0434
+TerrainGooHeight: 0.1304348
+TerrainGrain: 0.4586951
+TerrainDepth: -10
+TerrainSkyFade: 0.3478261
+TerrainPalette: ridgesnow
+Effects: BrokenZeroG-0.1304348-311-28, Dustpuffs-1-331-90, 
+PlacedObjects: LightFixture><63.44666><580.0361><RedLight~17.32051~-10~99, SnowSource><436.356><317.1744><Radial~962~380~50~86.60254~0.6086903~1, SnowSource><964.5249><547.1748><Radial~228~337~-279.8957~-133.9817~0.2389792~0.8913044, TerrainHandle><-52.39435><165.9149><-222~23~118~-24~13, TerrainHandle><785.6652><102.8618><-194~-6~116~13~78, TerrainHandle><350.4413><93.0603><-141~15~223~-7~75, TerrainHandle><1142.319><148.1797><-182~-35~40~0~158, BlackSpot><293.6621><-36.2221><-558~429~-630~-96~-171~-179, TerrainRubble><482.0068><99.47453><357~298, TerrainRubble><431.8964><79.1603><332~264, BlackSpot><-84.20128><55.49357><-49~317~176~143~226~-81, LocalBlizzard><648.9073><395.8765><-817~58~-268~158.6025~0.5978261~1~0.8968612, SnowSource><1098.382><516.7637><Radial~-327~1~-406.0001~-193.3975~0.7826087~1, LightBeam><-135.7812><360.8525><208~780~2039~115~743~-848~181.6098~-411.7883~0.1665131~0.1635115~0~1~None~0~0, 
+AmbientSounds: SPOT><AM_WIN-HowlingWnd.ogg><817.5528><572.7167><0.2717405><0.7456522><1059.551><710.7169><-526.3552><-209.3553><0><1, SPOT><SO_IND-FlourLight.ogg><457.4472><405.2167><0.2608696><1><71.4472><573.2166><-35.35534><-35.35534><0><0.3934784, OMNI><AM_WIN-SubWnd.ogg><812.094><495.8235><0.7173913><1.156522, 
+FadePalette: 8, 0
+TerrainFadePalette: ridgesnow_interior, 0.2173913
+WetTerrain: OFF
+MorePalette0: 2, 0.1195652

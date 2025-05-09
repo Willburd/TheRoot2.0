@@ -1,4 +1,4 @@
-Template: TR_SettingsTemplate_Leg
+Template: tr_settingstemplate_leg
 DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 0

@@ -1,4 +1,4 @@
-Template: TR_SettingsTemplate_Leg
+Template: tr_settingstemplate_leg
 DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 0
@@ -9,7 +9,7 @@ WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.5978261
-Palette: 10
+Palette: 16
 EffectColorB: 5
 Effects: HeatWave-0.2608696-31-64, Lightning-0-34-123, 
 PlacedObjects: LightFixture><1364.337><1341.385><RedLight~17.32051~-10~8, LightFixture><464.4328><1646.312><RedLight~17.32051~-10~77, LightFixture><1975.022><1211.699><RedLight~17.32051~-10~11, LightFixture><2094.823><1554.594><RedLight~17.32051~-10~93, LightFixture><156.9101><754.1301><RedLight~17.32051~-10~76, LightFixture><941.7078><461.4455><RedLight~17.32051~-10~53, LightFixture><1380.553><861.5343><RedLight~17.32051~-10~8, LightFixture><2205.947><595.5368><RedLight~17.32051~-10~70, ReliableSpear><1467.256><647.3002><, ReliableSpear><1835.068><525.4167><, ReliableSpear><2084.173><526.3157><, 
