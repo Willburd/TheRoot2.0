@@ -1,0 +1,23 @@
+Template: tr_settingstemplate_husk
+CeilingDrips: 0
+RainIntensity: 1
+WaveSpeed: 0.6935891
+WaveLength: 0.9032055
+WaveAmplitude: 4.042639E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+TerrainStainAmount: 0.4891304
+TerrainStainBrightness: 0.6521739
+TerrainStainHeight: 0.8369565
+TerrainWaves: 0.5217391
+TerrainEdgeRadius: 88.26082
+TerrainGooHeight: 0.1956522
+TerrainGrain: 0.8065212
+TerrainDepth: -9.402181
+TerrainPalette: ridgesnow
+Effects: Dustpuffs-1-300-26, 
+PlacedObjects: SnowSource><749.1571><362.3762><Radial~1285~416~50~86.60254~0.5978261~1, TerrainHandle><1036.444><59.95108><-206~-21~138~-14~71, TerrainHandle><515.0535><65.03714><-193~8~199~-42~60, TerrainHandle><105.0967><168.1284><-108~-26~156~-55~227, BlackSpot><412.3792><-33.90271><-621~425~-730~-39~-182~-186, BlackSpot><79.86221><273.605><153~-221~-523~-245~-501~174, TerrainHandle><1598.604><20.11288><-348~32~290~72~88, TerrainHandle><2225.716><104.6971><-324~-39~222~52~62, SnowSource><2456.95><326.9979><Radial~-1475~-76~-484~201.6026~0.5326087~0.7391304, TerrainHandle><2627.551><222.2311><-141~-51~232~-8~165, BlackSpot><2371.931><30.68777><152~-268~913~-206~875~556, BlackSpot><2399.55><66.9928><359~247~764~297~483~-219, BlackSpot><2125.349><7.130737><53~-207~490~-81~381~114, BlackSpot><2638.364><208.6466><34~81~274~164~140~-85, SnowSource><2606.837><364.6335><Radial~688~302~50~86.60254~0.6739131~1, LanternOnStick><2284.327><231.8505><-26~-177, LanternOnStick><2506.466><384.947><53~-209, 
+FadePalette: 8, 0.1847826, 0.1413043, 0.173913
+TerrainFadePalette: ridgesnow_interior, 0.4347826, 0.2173913, 0.3043478
+WetTerrain: OFF
+MorePalette0: 2, 0.05434782, 0.07608695, 0.07608695
