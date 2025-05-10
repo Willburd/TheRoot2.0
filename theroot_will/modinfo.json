@@ -6,6 +6,6 @@
 	"description": "Butts butts butts",
 	"requirements": ["regionkit","crs"],
 	"requirements_names": ["RegionKit","Custom Regions Support"],
-	"tags": ["region"],
+	"tags": ["Region"],
 	"checksum_override_version": false
 }

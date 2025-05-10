@@ -1,0 +1,15 @@
+Template: tr_settingstemplate_husk
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: LightSource><281.7948><354.1949><0.1521739~Environment~525~124~141~176.6025~1~1~None~0~0, SnowSource><360.0814><567.8173><Radial~926~302~365~-44.39746~0.6086956~1, 
+AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><815.0502><596.9908><0.423913><1.097826, 
+FadePalette: 8, 0.1847826
+WetTerrain: OFF
+MorePalette0: 2, 0.09782609

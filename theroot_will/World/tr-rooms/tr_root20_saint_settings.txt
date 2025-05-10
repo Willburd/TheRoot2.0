@@ -1,0 +1,12 @@
+Template: tr_settingstemplate_husk
+CeilingDrips: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 2.264204E-40
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Dustpuffs-1-338-23, 
+PlacedObjects: SnowSource><784.8054><163.9541><Radial~-705~187~50~86.60254~0.8043478~1, LightSource><318.3033><287.2863><0.1413043~Environment~486~248~50~86.60254~1~1~None~0~0, Corruption><144.5827><182.1404><32~94, 
+FadePalette: 8, 0.25
+WetTerrain: OFF
+MorePalette0: 2, 0.07608695

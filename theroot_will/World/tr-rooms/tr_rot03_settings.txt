@@ -3,11 +3,11 @@ CeilingDrips: 0
 RumbleIntensity: 0.326087
 WaveSpeed: 0.5
 WaveLength: 1
-WaveAmplitude: 5.605194E-45
+WaveAmplitude: 1.304625E-21
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.7826087
-Effects: BrokenZeroG-0.2608696-306-8, 
+Effects: BrokenZeroG-0.2608696-306-8, Dustpuffs-1-345-75, 
 PlacedObjects: SnowSource><576.8298><164.8166><Radial~314~221~-142~216.6025~0.3043478~1, SnowSource><1292.814><206.0726><Radial~-283~261~50~86.60254~0.3478261~1, SnowSource><579.9548><162.0552><Radial~599~257~50~86.60254~0.4130439~0.9565217, SnowSource><1664.685><169.7225><Radial~124~307~50~86.60254~0.4999987~1, Corruption><259.7834><260.1088><0~100, 
 FadePalette: 8, 0.4565217, 0.4130435
 WetTerrain: OFF
