@@ -1,0 +1,13 @@
+Template: tr_settingstemplate_husk
+CeilingDrips: 0
+RainIntensity: 1
+WaveSpeed: 0.5338306
+WaveLength: 0.7330847
+WaveAmplitude: 0.04999999
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: WaterDepth-0.06521739-311-18, 
+PlacedObjects: SnowSource><582.0631><407.1898><Radial~-707~-327~249.0001~104.6025~0.5108696~1, LightSource><640.5728><510.5928><0.1847826~Environment~-739~-383~-288~-142.3975~1~1~None~0~0, 
+AmbientSounds: SPOT><AM_WIN-StrongWnd2.ogg><816.3032><558.5359><0.4782609><1.078261><838.3032><632.5359><-247.3553><-110.3553><0><0.6108697, SPOT><so_wat-splashes.ogg><816.4308><428.5624><0.3913043><1><654.4308><93.56238><-282.3553><111.6447><0><0.6760871, 
+FadePalette: 8, 0.4891304
+WetTerrain: OFF

@@ -1,0 +1,15 @@
+Template: tr_settingstemplate_husk
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: BrokenZeroG-0.08695652-292-18, 
+PlacedObjects: LightFixture><53.15027><405.3267><RedLight~-79.6795~-264~25, LightFixture><463.1004><575.6327><RedLight~17.32051~-10~25, SteamPipe><751.803><346.7847><-20~24, SteamPipe><845.1741><446.8483><48~22, SteamPipe><813.9955><397.95><-27~26, SnowSource><617.6784><1282.437><Radial~-197~-76~215.0001~48.60254~0.4456522~1, SteamPipe><94.69727><468.9429><27~44, SteamPipe><87.88757><461.8952><56~-8, SteamPipe><82.55508><466.7949><105~34, LanternOnStick><553.0788><384.5425><49~-183, LanternOnStick><638.6961><443.3667><-47~-192, 
+AmbientSounds: SPOT><SO_WAT-ProperDrips.ogg><607.6887><199.8096><0.5><1><311.6887><545.8096><-200.3553><-114.3553><0><0.3717393, SPOT><SO_IND-FlourLight.ogg><675.1753><300.0963><0.2391304><1><699.1753><294.0963><-63.35535><-196.3553><0><0.3608697, 
+FadePalette: 10, 0.7391304, 0.8913044
+WetTerrain: OFF
