@@ -1,9 +1,10 @@
-Template: TR_SettingsTemplate_Husk
+Template: tr_settingstemplate_husk
 CeilingDrips: 0
-RumbleIntensity: 1
-WaveSpeed: 0.5
-WaveLength: 1
-WaveAmplitude: 5.605194E-45
+RainIntensity: 1
+RumbleIntensity: 0
+WaveSpeed: 0.5327589
+WaveLength: 0.7336205
+WaveAmplitude: 0.04924826
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 EffectColorB: 3

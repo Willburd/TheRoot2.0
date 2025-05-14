@@ -1,0 +1,13 @@
+Template: tr_settingstemplate_leg
+CeilingDrips: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 7.06965E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+EffectColorA: 3
+Effects: HeatWave-0.3043478-30-30, 
+PlacedObjects: LightFixture><422.3488><374.8809><RedLight~17.32051~-10~70, 
+AmbientSounds: OMNI><AM_RAIN-QuietThunder.ogg><657.8256><646.6521><0.423913><0.8434783, 
+FadePalette: 10, 0.75
+WetTerrain: OFF

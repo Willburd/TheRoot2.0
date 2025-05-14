@@ -1,8 +1,9 @@
 DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.7457093
-WaveLength: 0.8771453
-WaveAmplitude: 2.283042E-07
+RumbleIntensity: 0.8043478
+WaveSpeed: 0.4601515
+WaveLength: 0.7300757
+WaveAmplitude: 0.04999999
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 0

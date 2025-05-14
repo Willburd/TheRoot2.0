@@ -1,10 +1,10 @@
 Template: tr_settingstemplate_husk
 CeilingDrips: 0
-RainIntensity: 0
-RumbleIntensity: 0.3695652
-WaveSpeed: 0.5
-WaveLength: 1
-WaveAmplitude: 5.605194E-45
+RainIntensity: 1
+RumbleIntensity: 0.2608696
+WaveSpeed: 0.5283763
+WaveLength: 0.7358118
+WaveAmplitude: 0.04999988
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Effects: BrokenZeroG-0.326087-310-12, 

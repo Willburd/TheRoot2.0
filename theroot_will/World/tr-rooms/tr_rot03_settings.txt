@@ -1,9 +1,10 @@
 Template: tr_settingstemplate_husk
 CeilingDrips: 0
-RumbleIntensity: 0.326087
-WaveSpeed: 0.5
-WaveLength: 1
-WaveAmplitude: 1.304625E-21
+RainIntensity: 1
+RumbleIntensity: 0.4021739
+WaveSpeed: 0.4433114
+WaveLength: 0.7216557
+WaveAmplitude: 0.04999999
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.7826087

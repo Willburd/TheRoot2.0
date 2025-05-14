@@ -1,8 +1,9 @@
-Template: TR_SettingsTemplate_Maw
+Template: tr_settingstemplate_maw
 CeilingDrips: 0
-WaveSpeed: 0.4569849
-WaveLength: 0.9784924
-WaveAmplitude: 9.053911E-09
+RumbleIntensity: 0.3695652
+WaveSpeed: 0.5260772
+WaveLength: 0.7369614
+WaveAmplitude: 0.04999999
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 0
