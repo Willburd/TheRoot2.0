@@ -1,0 +1,13 @@
+Template: tr_settingstemplate_husk
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0.4673913
+WaveSpeed: 0.5862676
+WaveLength: 0.9568662
+WaveAmplitude: 1.605836E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Dustpuffs-1-316-6, 
+PlacedObjects: SnowSource><216.5269><2739.303><Radial~488~229~-267~-293.3975~0.3369565~1, SnowSource><624.5569><1871.698><Radial~337~-160~-206~185.6025~0.2608696~1, LightFixture><729.8807><1976.589><RedLight~17.32051~-10~39, LightSource><330.1614><2487.429><0.1413043~Environment~518~285~50~86.60254~1~1~None~0~0, LightSource><284.6861><396.6768><0.1086956~Environment~701~-231~50~86.60254~1~1~None~0~0, SnowSource><290.8255><44.68521><Radial~223~342~50~86.60254~0.4130435~1, 
+FadePalette: 8, 0.6304348, 0.5978261, 0.5543478, 0.6195652
+WetTerrain: OFF
