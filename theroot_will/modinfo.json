@@ -1,0 +1,11 @@
+{
+	"id": "theroot_will",
+	"name": "The Root",
+	"version": "3.0",
+	"authors": "Willbird, Facecat, Norgad, Enderzilla, Bro",
+	"description": "Butts butts butts",
+	"requirements": ["regionkit","crs"],
+	"requirements_names": ["RegionKit","Custom Regions Support"],
+	"tags": ["Region"],
+	"checksum_override_version": false
+}

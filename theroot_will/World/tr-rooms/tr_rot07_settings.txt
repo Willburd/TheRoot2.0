@@ -1,0 +1,12 @@
+Template: tr_settingstemplate_maw
+CeilingDrips: 0
+RumbleIntensity: 0.3695652
+WaveSpeed: 0.5260772
+WaveLength: 0.7369614
+WaveAmplitude: 0.04999999
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+PlacedObjects: LightSource><442.5574><608.6962><0.173913~Environment~-517~138~-464~-195.3975~1~1~None~0~0, LightSource><452.0388><511.0538><0.01086957~Environment~557~-255~366~46.60254~1~0~None~0~0, SnowSource><355.3907><460.6421><Radial~281~578~353~46.60254~0.3913043~1, 
+FadePalette: 8, 0.25
+WetTerrain: OFF

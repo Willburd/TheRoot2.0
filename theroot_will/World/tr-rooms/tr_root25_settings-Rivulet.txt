@@ -1,0 +1,8 @@
+DangerType: FloodAndRain
+RandomItemDensity: 0.8043478
+RandomItemSpearChance: 0.547826
+Palette: 4
+Effects: LightBurn-0-30-30, Desaturation-0.3695652-27-89, 
+PlacedObjects: DangleFruit><397.4184><454.4326><0~0~2~3, DangleFruit><482.6998><471.259><0~0~2~3, DangleFruit><436.3712><422.403><0~0~2~3, 
+AmbientSounds: SPOT><AM_ENV-WindGrass.ogg><868.9314><535.8342><0.3586957><1><648.9314><1449.834><-111.3553><-204.3553><0><1, SPOT><SO_IND-Turbine.ogg><693.1333><535.1624><0.2391304><1><726.1333><85.16241><-68.35535><-58.35534><0><0.2195653, SPOT><AM_IND-Utility04.ogg><702.1876><427.44><0.25><1><762.1876><-2.559998><-129.3553><-59.35534><0><0.4369566, 
+FadePalette: 8, 0.326087, 0.2934783

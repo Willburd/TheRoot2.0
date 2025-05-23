@@ -1,8 +1,0 @@
-Template: TR_SettingsTemplate_Leg
-RainIntensity: 0
-RumbleIntensity: 0.5434783
-Palette: 16
-Effects: ElectricDeath-1-20-20, GreenSparks-0.1086956-24-73, 
-PlacedObjects: LightFixture><429.6964><786.771><RedLight~17.32051~-10~64, LightFixture><877.3451><1274.875><RedLight~17.32051~-10~61, LightFixture><396.5421><1377.943><RedLight~17.32051~-10~36, LightFixture><-81.69647><1017.788><RedLight~17.32051~-10~90, LightFixture><1141.841><1036.519><RedLight~17.32051~-10~43, LightFixture><1858.672><1364.182><RedLight~17.32051~-10~80, LightFixture><1612.981><-36.1427><RedLight~17.32051~-10~9, LightFixture><2009.528><895.0756><RedLight~17.32051~-10~88, LightFixture><593.2703><486.6042><RedLight~17.32051~-10~7, LightFixture><839.4159><67.65929><RedLight~17.32051~-10~9, LightFixture><-18.65967><349.6343><RedLight~17.32051~-10~29, LightFixture><1207.901><-17.12756><RedLight~17.32051~-10~72, LightFixture><2159.949><516.0188><RedLight~17.32051~-10~97, LightFixture><1922.919><53.85405><RedLight~17.32051~-10~43, LightSource><1594.6><-31.4273><0.4891304~EffectColor1~-454~315~50~86.60254~1~0, DangleFruit><478.8002><1120.51><0~0~2~3, DangleFruit><464.1021><1162.652><0~0~2~3, 
-AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><836.1709><572.0663><0.3586957><1, SPOT><AM_WIN-SubWnd.ogg><649.7><531.7454><0.4565217><1><898.6898><-24.29767><270.6447><250.6447><0><0.6869566, SPOT><SO_IND-Deep50hz.ogg><842.9085><456.3781><0.2608696><1><1594.908><-27.62194><-536.3553><-10.35535><0><0.3608697, SPOT><SO_SFX-AlienScythe.ogg><671.3901><411.0829><0.3369565><1><1555.391><284.0812><-35.35534><-35.35534><0.6630435><0.2195653, 
-FadePalette: 17, 0.6847826, 0.6847826, 0.6739131, 0.6630435

@@ -1,0 +1,5 @@
+Clouds: 0.1195652
+Palette: 19
+Effects: LightBurn-0.3804348-20-20, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><866.1936><637.5581><0.326087><1, SPOT><AM_IND-Utility03.ogg><869.2458><522.95><0.326087><1><483.2458><399.95><-77.35535><-100.3553><0><0.2304349, 
+FadePalette: 4, 0.5760869

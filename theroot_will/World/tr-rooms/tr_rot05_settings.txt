@@ -1,0 +1,13 @@
+Template: tr_settingstemplate_husk
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: HeatWave-0.1195652-319-20, BrokenZeroG-0.07608695-318-90, 
+PlacedObjects: WaterFallDepth><466.0692><553.894><-486.0001~-114.0009~3~0.7173913~0.09130462~S~-0.5869566~0~S~-0.5869566~0, Corruption><562.9332><516.6908><0~100, Corruption><196.7754><346.1165><-3~81, 
+AmbientSounds: SPOT><SO_WAT-Splashes.ogg><684.5433><401.3047><0.5><1><484.5432><259.3047><-418.3553><42.64465><0><0.5456523, SPOT><SO_WAT-OpenFlow.ogg><806.8115><545.317><0.7391304><1><493.8115><306.317><-125.3553><-153.3553><0><0.4369566, 
+FadePalette: 10, 0.9021739
+WetTerrain: OFF

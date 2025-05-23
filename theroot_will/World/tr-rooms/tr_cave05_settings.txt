@@ -1,0 +1,5 @@
+Template: TR_SettingsTemplate_Leg
+DangerType: Flood
+Palette: 16
+Effects: Lightning-0-30-30, 
+FadePalette: 17, 0.75

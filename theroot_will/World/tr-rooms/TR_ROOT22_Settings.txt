@@ -1,0 +1,7 @@
+Template: tr_settingstemplate_leg
+DangerType: FloodAndRain
+RainIntensity: 0.6847826
+RumbleIntensity: 0.6413044
+Effects: GreenSparks-0.07608695-23-72, ElectricDeath-0.06521739-284-77, 
+PlacedObjects: LightFixture><101.052><3472.473><RedLight~17.32051~-10~35, LightFixture><2064.053><3425.467><RedLight~17.32051~-10~9, LightFixture><1221.871><2834.091><RedLight~17.32051~-10~5, LightFixture><1881.658><1958.616><RedLight~17.32051~-10~72, 
+FadePalette: 17, 0.7282609, 0.75, 0.7608696, 0.8260869, 0.8478261, 0.8695652, 0.9130435, 0.9130435, 0.9130435, 0.8586956, 0.8913044, 0.8913044, 0.9130435, 0.9347826, 0.8804348

@@ -1,0 +1,5 @@
+Palette: 4
+Effects: Desaturation-0.5434783-312-44, Darkness-0.1304348-308-98, LightRain-0.2717391-41-110, 
+PlacedObjects: NoSpearStickZone><250.4336><1817.311><-1~187, NoSpearStickZone><740.2633><2223.95><13~185, DangleFruit><737.8337><983.9316><0~0~2~3, DangleFruit><751.95><890.7507><0~0~2~3, DangleFruit><107.282><1376.697><0~0~2~3, ReliableSpear><290.05><149.0564><, ReliableSpear><337.8888><162.4163><, ReliableSpear><377.064><209.4395><, ReliableSpear><645.8773><69.09204><, ReliableSpear><597.1642><92.3642><, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_16 - Shoreline<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>489.0703<tB>420.6624<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>Rivulet|Artificer|Saint|Spear|Gourmand, 
+FadePalette: 3, 0.07608695, 0.5108696, 1

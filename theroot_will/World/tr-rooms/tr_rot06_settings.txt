@@ -1,0 +1,11 @@
+Template: TR_SettingsTemplate_Maw
+CeilingDrips: 0
+WaveSpeed: 0.7884889
+WaveLength: 0.8557556
+WaveAmplitude: 7.335888E-11
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+PlacedObjects: SnowSource><542.8137><351.3228><Radial~-828~422~50~86.60254~0.6413044~1, SnowSource><1792.838><255.4299><Radial~-958~277~50~86.60254~0.4130435~1, SnowSource><1649.737><9.80043><Radial~-80~427~-207~381.6025~0.5760869~1, SnowSource><2985.304><232.2079><Radial~-1030~521~-708~220.6025~0.4782609~1, SnowSource><4538.227><332.0513><Radial~923~335~50~86.60254~0.4673913~1, 
+FadePalette: 8, 0.2282609, 0.2717391, 0.3152174, 0.3478261, 0.3804348
+WetTerrain: OFF

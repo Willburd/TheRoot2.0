@@ -1,0 +1,18 @@
+Template: tr_settingstemplate_husk
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0.5652174
+WaveSpeed: 0.7802961
+WaveLength: 0.609852
+WaveAmplitude: 0.04999999
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+BkgDroneVolume: 0
+EffectColorB: 3
+Effects: GreenSparks-0-34-135, LightBurn-0.1521739-308-88, BkgOnlyLightning-0-34-81, BrokenZeroG-0.2826087-313-24, 
+PlacedObjects: NoSpearStickZone><183.8287><547.0662><-35~161, NoSpearStickZone><525.6676><391.4323><0~100, FirecrackerPlant><2567.472><222.5519><0~0~2~3, FirecrackerPlant><2612.7><218.7578><0~0~2~3, FirecrackerPlant><2655.554><215.5574><0~0~2~3, FlyLure><1378.141><259.082><0~0~4~9, FlyLure><1494.371><178.4095><0~0~4~9, SnowSource><2743.677><206.936><None~1269~257~50~86.60254~0.3804348~1, SnowSource><1290.397><414.9214><None~-1300~-622~50~86.60254~0.4673913~1, SnowSource><114.3224><489.158><Radial~490~4~50~86.60254~0.5326087~0.8260869, SnowSource><3241.613><394.1454><Radial~-485~251~-393~97.60254~0.5543478~1, LightFixture><4086.855><521.1393><RedLight~17.32051~-10~62, LightFixture><3542.855><551.9391><RedLight~17.32051~-10~8, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><636.4462><387.4615><0.02173913><0.1, OMNI><AM_RAIN-RollingThunder.ogg><463.051><454.0197><0><0.1, OMNI><AM_ENV-WindGrass.ogg><635.9457><314.6925><0.3478261><1, 
+FadePalette: 8, 0.09782609, 0.1521739, 0.2065217, 0.3152174
+WetTerrain: OFF
+MorePalette0: 2, 0.173913, 0.1956522, 0.173913, 0.2173913

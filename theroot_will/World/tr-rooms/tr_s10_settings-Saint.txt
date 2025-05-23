@@ -1,0 +1,14 @@
+Template: TR_SettingsTemplate_Leg
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Lightning-0.1195652-30-30, HeatWave-0.1304348-34-84, 
+AmbientSounds: OMNI><AM_RAIN-QuietThunder.ogg><657.8256><646.6521><0><0.1, 
+FadePalette: 17, 0.8369565
+WetTerrain: OFF

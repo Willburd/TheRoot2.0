@@ -1,0 +1,13 @@
+Template: tr_settingstemplate_pipes
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0.4673913
+WaveSpeed: 0.6247848
+WaveLength: 0.6876076
+WaveAmplitude: 0.04999999
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Coldness-1-20-20, 
+FadePalette: 0, 0.3043478
+WetTerrain: OFF

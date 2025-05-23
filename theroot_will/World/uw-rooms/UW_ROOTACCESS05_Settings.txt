@@ -1,0 +1,10 @@
+Template: UW_SettingsTemplate_Underhang
+RainIntensity: 0
+RumbleIntensity: 0.5
+EffectColorA: 18
+EffectColorB: 5
+Effects: ElectricDeath-1-17-127, 
+PlacedObjects: SteamPipe><4738.946><826.0578><-25~-27, SteamPipe><4657.332><895.3926><35~1, WallSteamer><4614.029><904.5519><-31~-37, SteamPipe><4195.833><760.6077><29~5, WallSteamer><4211.694><748.3015><60~1, WallSteamer><4185.341><766.8793><-30~101, SteamPipe><3386.423><799.3153><18~-26, SteamPipe><3318.439><841.934><-22~-28, SteamPipe><2395.671><668.8536><-24~17, SteamPipe><2410.581><659.5671><-17~-69, SteamPipe><2573.531><842.9475><8~-34, SteamPipe><2350.506><861.9499><-32~-98, WallSteamer><2440.949><699.9808><15~-58, WallSteamer><2532.825><795.8146><44~-38, WallSteamer><2374.943><797.0527><62~-65, WallSteamer><1505.087><807.8197><34~-71, WallSteamer><1477.846><805.8723><-26~-96, WallSteamer><1489.809><788.058><0~-51, SteamPipe><1504.86><858.3928><12~-63, WallSteamer><850.55><863.5021><40~-53, WallSteamer><722.6641><911.6807><-6~-74, WallSteamer><490.9492><734.4822><25~-49, WallSteamer><581.8308><827.317><8~-61, SteamPipe><506.5532><842.5572><-24~51, SteamPipe><532.6981><849.7223><33~-56, SteamPipe><854.6846><871.827><-36~-77, SteamPipe><775.6922><908.8053><48~-70, 
+AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><833.5582><572.1934><0.4130435><1, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_UW_UNDERHANG<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>708.3671<tB>419.1621<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB>111, 
+FadePalette: 17, 0.3913043, 0.3804348, 0.3913043, 0.3913043, 0.3913043, 0.3804348

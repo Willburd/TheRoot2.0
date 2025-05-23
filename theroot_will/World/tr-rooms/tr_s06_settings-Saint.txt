@@ -1,0 +1,13 @@
+Template: tr_settingstemplate_husk
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.2717391
+FadePalette: 8, 0.5326087
+WetTerrain: OFF

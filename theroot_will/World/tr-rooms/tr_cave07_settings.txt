@@ -1,0 +1,6 @@
+Template: TR_SettingsTemplate_RailYard
+DangerType: Flood
+Palette: 10
+Effects: GreenSparks-0-283-25, FireFlies-0.1521739-283-88, 
+PlacedObjects: LightSource><281.7948><354.1949><0.05434782~Environment~525~124~50~86.60254~1~1~None~0~0, 
+FadePalette: 17, 0.04347826

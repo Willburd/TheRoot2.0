@@ -1,0 +1,20 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 1.739101E-16
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.3695652
+Grime: 0
+Palette: 10
+EffectColorA: 0
+EffectColorB: 13
+Effects: Coldness-1-23-83, 
+PlacedObjects: NoSpearStickZone><481.9449><251.4553><-8~268, LightFixture><596.8662><604.8513><RedLight~22.3205~-90~66, LightFixture><-62.59552><324.623><RedLight~17.32051~-10~72, Corruption><132.965><356.9469><13~59, Corruption><574.1021><496.6346><13~65, 
+AmbientSounds: OMNI><MSC-ShadowAlley.ogg><464.3><615.6937><0.2173913><1, OMNI><Deep Weird Wind.wav><645.8026><611.807><0.1304348><1, OMNI><SO_WAT-OpenFlow.ogg><466.0701><532.8127><0.4347826><0.823913, 
+FadePalette: 0, 0.1956522
+WetTerrain: OFF

@@ -1,0 +1,18 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0.5978261
+WaveSpeed: 0.461138
+WaveLength: 0.730569
+WaveAmplitude: 0.04999999
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+RandomItemDensity: 0.8043478
+RandomItemSpearChance: 0.547826
+Palette: 0
+Effects: LightBurn-0.5760869-30-30, Coldness-1-33-93, 
+PlacedObjects: DangleFruit><397.4184><454.4326><0~0~2~3, DangleFruit><482.6998><471.259><0~0~2~3, DangleFruit><436.3712><422.403><0~0~2~3, SnowSource><535.8058><314.048><Radial~971~533~237~53.60254~0.3695652~1, 
+AmbientSounds: SPOT><AM_ENV-WindGrass.ogg><868.9314><535.8342><0.3586957><1><648.9314><1449.834><-111.3553><-204.3553><0><1, SPOT><SO_IND-Turbine.ogg><693.1333><535.1624><0.2391304><1><726.1333><85.16241><-68.35535><-58.35534><0><0.2195653, SPOT><AM_IND-Utility04.ogg><702.1876><427.44><0.25><1><762.1876><-2.559998><-129.3553><-59.35534><0><0.4369566, OMNI><AM_ENV-LightWind.ogg><693.0651><647.6891><0><1, OMNI><AM_ENV-Outside.ogg><868.9468><647.2142><0><1, OMNI><AM_ENV-NatWind.ogg><513.8><645.248><0.3369565><1, 
+FadePalette: 3, 0.4347826, 0.4782609
+WetTerrain: OFF
+MorePalette0: 2, 0.09782609, 0.0326087

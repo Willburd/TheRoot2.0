@@ -1,0 +1,7 @@
+Template: TR_SettingsTemplate_RailYard
+DangerType: Flood
+Palette: 10
+EffectColorA: 11
+Effects: GreenSparks-0-292-29, 
+PlacedObjects: LightSource><573.2234><627.0518><0.2065217~EffectColor1~250~-92~-450~-172.3975~0~1~None~0~0, LightSource><577.0504><624.2631><0.2934783~EffectColor1~1161~-447~-184~-174.3975~0~0~None~0~0, LightSource><2529.949><557.5199><0.3043478~EffectColor1~-1296~-358~143~-9.397461~0~0~None~0~0, LightSource><2516.821><562.411><0.2717391~EffectColor1~-151~-99~-307~-46.39746~0~1~None~0~0, 
+FadePalette: 17, 0.04347826, 0.04347826, 0.04347826

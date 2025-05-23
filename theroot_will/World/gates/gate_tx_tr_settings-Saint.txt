@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 1.478088E-06
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+Palette: 10
+EffectColorA: 18
+Effects: HeatWave-0.1413043-20-20, 
+PlacedObjects: LightFixture><605.0756><12.59784><RedLight~17.32051~-10~76, LightFixture><90.1452><353.3297><RedLight~17.32051~-10~45, LightFixture><347.1081><459.3591><RedLight~17.32051~-10~45, 
+AmbientSounds: OMNI><Mech Basic.wav><847.319><655.1877><0.1956522><1, OMNI><Deep Weird Wind.wav><846.65><585.6323><0.1304348><1, OMNI><SO_WAT-MoreDrips.ogg><669.4946><647.55><0.3478261><1.136956, 
+WetTerrain: OFF

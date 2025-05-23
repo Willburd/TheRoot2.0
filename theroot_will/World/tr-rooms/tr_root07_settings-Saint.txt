@@ -1,0 +1,14 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RumbleIntensity: 0.5434783
+WaveSpeed: 0.5063711
+WaveLength: 0.7468145
+WaveAmplitude: 0.04999999
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+Effects: Coldness-1-20-78, 
+PlacedObjects: NoSpearStickZone><269.0359><751.1968><95~232, LightBeam><2135.156><155.4266><-89~105~125~226~145~45~216~19~0.421739~0.2608696~0~1~None~0~0, LightBeam><3442.675><115.1522><-98~169~-54~202~110~26~0~0~0.5195651~0.25~0~1~None~0~0, NoSpearStickZone><4755.195><636.2067><3~156, FirecrackerPlant><3460.199><535.233><0~0~2~3, FirecrackerPlant><3497.087><537.6187><0~0~2~3, FlyLure><1351.676><407.6548><0~0~4~9, FlyLure><1989.426><470.5641><0~0~4~9, FlyLure><4622.051><301.2734><0~0~4~9, FlyLure><3992.975><285.6984><0~0~4~9, SnowSource><1125.464><313.4467><None~-1347~524~-64~231.6025~0.3586957~1, SnowSource><3465.873><415.1581><None~793~365~50~86.60254~0.4347826~1, SnowSource><4713.614><272.6644><Radial~-671~-689~50~86.60254~0.7282609~1, SnowSource><3000.2><769.2391><Radial~612~-275~59~-301.3975~0.423913~1, SnowSource><1556.905><249.1265><Radial~407~133~350~133.6025~0.5108696~1, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><510.6024><648.9218><0.3369565><1, OMNI><AM_ENV-LightWind.ogg><693.0651><647.6891><0><1, OMNI><AM_ENV-Outside.ogg><868.9468><647.2142><0><1, 
+FadePalette: 3, 0.2391304, 0.2717391, 0.3152174, 0.2826087, 0.2065217
+WetTerrain: OFF

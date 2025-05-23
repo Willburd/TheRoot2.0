@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.5041612
+WaveLength: 0.7479194
+WaveAmplitude: 0.00509
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 10
+Effects: BkgOnlyLightning-0.3043478-20-20, 
+PlacedObjects: NoSpearStickZone><474.5886><249.8207><-45~235, ExitSymbolShelter><51.0524><189.7195><, 
+FadePalette: 5, 0.2282609
+WetTerrain: OFF

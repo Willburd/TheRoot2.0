@@ -1,0 +1,18 @@
+Template: tr_settingstemplate_pipes
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 3.657389E-43
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.2391304
+RandomItemDensity: 0.6521739
+RandomItemSpearChance: 0.7326086
+Effects: Coldness-1-20-20, 
+PlacedObjects: LightFixture><274.7884><527.0537><RedLight~-270.6795~31~6, LightSource><507.9341><406.6888><0.1521739~Environment~-319~120~118~52.60254~1~1~None~0~0, LightSource><505.21><375.554><0.3478261~Environment~-226~216~85~-117.3975~1~0~None~0~0, DangleFruit><453.4198><476.8557><0~0~2~3, DangleFruit><408.2291><501.9489><0~0~2~3, 
+AmbientSounds: SPOT><SO_WAT-RunningWater.ogg><686.8><520.5054><0.4565217><0.726087><1830.8><667.5054><-107.3553><-175.3553><0><0.2195653, SPOT><SO_WAT-RunningWater.ogg><687.991><520.6998><0.4565217><0.726087><1199.991><652.6998><-20.35535><-178.3553><0><0.2195653, SPOT><SO_WAT-Splashes.ogg><863.6823><518.3118><0.4565217><1.136956><1826.682><301.3118><-123.3553><-153.3553><0><0.3391306, SPOT><SO_WAT-Splashes.ogg><862.7078><519.3045><0.4565217><1.136956><1191.708><271.3045><-123.3553><-92.35535><0><0.3391306, SPOT><AM_ENV-LightWind.ogg><688.1108><398.4165><0.326087><1><2962.111><364.4165><-173.3553><-73.35535><0><0.8717393, SPOT><AM_ENV-WindGrass.ogg><869.3118><395.6822><0.4565217><1><534.3118><654.6822><-101.3553><-178.3553><0><0.3608697, 
+FadePalette: 0, 0.2934783, 0.25, 0.2282609
+WetTerrain: OFF

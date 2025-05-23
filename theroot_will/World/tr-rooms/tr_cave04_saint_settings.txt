@@ -1,0 +1,25 @@
+Template: tr_settingstemplate_husk
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0
+WaveSpeed: 0.6529631
+WaveLength: 0.6735184
+WaveAmplitude: 0.04999999
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+TerrainLight: 0.4021739
+TerrainStainAmount: 0.7826087
+TerrainStainHeight: 0.326087
+TerrainWaves: 0.326087
+TerrainGooHeight: 0.1413043
+TerrainGrain: 0.6760864
+TerrainDepth: -10
+TerrainSkyFade: 1
+TerrainPalette: ridgesnow
+Effects: Dustpuffs-0.9130435-295-26, 
+PlacedObjects: TerrainHandle><0.6358337><239.6642><-166~31~269~-51~23, TerrainHandle><522.5599><89.43765><-199~50~200~7~24, TerrainHandle><961.1689><130.3171><-158~-31~226~38~53, BlackSpot><106.5094><139.8002><-355~286~-657~24~-221~-374, BlackSpot><-39.83136><257.3575><-101~-152~181~-278~464~-227, SnowSource><-5.117096><252.6494><Radial~957~380~50~86.60254~0.532609~0.9565217, SnowSource><782.1916><614.9426><Radial~1059~-465~50~86.60254~0.5543478~1, TerrainHandle><1528.63><130.0984><-269~28~234~-45~52, TerrainHandle><2037.326><67.34906><-229~11~357~-17~63, ExitSymbolHidden><533.6991><328.7314><, LocalBlizzard><1096.091><618.8218><-1025~-401~-893~-32.39746~0.4021739~0.5~0.9021739, TerrainHandle><2745.299><26.55679><-216~14~289~17~114, SnowSource><1637.285><119.197><Radial~-99~491~50~86.60254~0.4347826~1, SnowSource><2663.178><97.09152><Radial~395~607~50~86.60254~0.7717391~1, TerrainHandle><4019.41><89.63787><-283~37~106~-5~114, TerrainHandle><3353.094><77.62559><-163~-9~247~-12~77, LocalBlizzard><3025.521><730.2929><-1289~134~-532~54.60254~0.5~1~0.9130435, LocalBlizzard><4295.082><568.8588><750~30~-432~-240.3975~0.4565217~1~0.9239131, SnowSource><4514.805><270.2961><Radial~1211~420~50~86.60254~0.75~1, TerrainRubble><4198.384><172.4132><1248~185, TerrainRubble><3034.47><121.6978><302~286, TerrainRubble><2088.838><67.88235><596~195, TerrainRubble><569.3959><72.07925><581~166, SnowSource><5708.689><164.9361><Radial~-999~473~-308~391.6025~0.6956522~0.9456522, SnowSource><5828.81><407.8091><Radial~-139~388~-161~151.6025~0.6413044~1, TerrainHandle><5265.576><66.69168><-363~-20~238~4~103, TerrainHandle><6014.058><74.57565><-264~-24~243~0~91, LocalBlizzard><5718.267><681.8007><-1196~293~40~32.60254~0.4130435~1~0.9021739, TerrainRubble><5640.815><93.17419><565~392, 
+AmbientSounds: OMNI><AM_WIN-SubWnd.ogg><461.9932><447.6999><0.7391304><0.6478261, OMNI><AM_WIN-StrongWnd2.ogg><632.2902><373.3041><0.6630435><1.097826, 
+FadePalette: 8, 0.1630435, 0.1086956, 0.05434782, 0.02173913, 0.04347826, 0.0326087
+TerrainFadePalette: ridgesnow_interior, 0.06521739, 0.07608695, 0.06521739, 0.07608695, 0.0326087, 0.06521739
+WetTerrain: OFF
+MorePalette0: 2, 0.08695652, 0.07608695, 0.05434782, 0.05434782, 0.05434782, 0.07608695

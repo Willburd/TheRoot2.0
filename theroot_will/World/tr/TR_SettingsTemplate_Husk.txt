@@ -1,0 +1,21 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.2608696
+Grime: 0.1
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 0
+EffectColorA: 21
+EffectColorB: 13
+Effects: Coldness-1-46-22, Fog-0.2826087-78-91, 
+AmbientSounds: OMNI><MSC-ShadowAlley.ogg><456.6767><608.4063><0.2065217><1, OMNI><Deep Weird Wind.wav><636.0734><602.814><0.1304348><1, OMNI><MSC-RitualMetal.ogg><636.1729><526.1006><0.1847826><0.7456522, OMNI><MSC-UnrelentingBreakage.ogg><455.1756><526.3457><0.25><0.2956522, OMNI><SO_WAT-ProperDrips.ogg><639.9442><448.1921><0.2826087><0.8826087, 

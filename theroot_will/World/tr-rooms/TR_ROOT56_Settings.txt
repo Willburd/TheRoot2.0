@@ -1,0 +1,7 @@
+Template: TR_SettingsTemplate_Leg
+RainIntensity: 0
+RumbleIntensity: 0.4891304
+Effects: GreenSparks-0.3586957-27-77, ElectricDeath-1-22-138, 
+PlacedObjects: LightFixture><1754.305><422.9834><RedLight~17.32051~-10~33, LightFixture><879.7997><729.1112><RedLight~17.32051~-10~90, LightFixture><1269.642><134.0143><RedLight~17.32051~-10~42, LightFixture><247.6129><35.1647><RedLight~10.3205~-79~95, LightFixture><71.63062><582.1702><RedLight~17.32051~-10~88, DangleFruit><166.8075><456.1973><0~0~2~3, DangleFruit><202.8062><485.2888><0~0~2~3, SteamPipe><1277.2><227.7611><0~100, SteamPipe><1802.133><250.8995><3~35, SteamPipe><1882.1><263.9233><-44~25, SteamPipe><1311.991><378.5503><5~-65, WallSteamer><1775.36><356.0829><-49~-26, WallSteamer><1334.063><401.3214><9~-108, WallSteamer><1274.351><375.0775><-27~-38, WallSteamer><1381.445><387.2075><38~-63, SteamPipe><373.172><87.89786><-17~24, SteamPipe><74.86212><441.1449><30~41, SteamPipe><862.1387><164.8559><-33~-4, WallSteamer><861.9127><576.6337><-66~-52, WallSteamer><865.8628><147.5848><-80~-3, WallSteamer><64.91821><452.6418><48~-40, 
+AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><832.1007><575.8831><0.3804348><1, SPOT><AM_WIN-SubWnd.ogg><657.1374><538.3547><0.4130435><1><563.2402><721.2863><-149.3553><-323.3553><0><0.7630436, SPOT><AM_IND-Utility02.ogg><838.8042><463.7091><0.3913043><1><1689.804><612.7091><-122.3553><-260.3553><0><0.578261, SPOT><AM_IND-Utility04.ogg><657.0914><424.1281><0.3369565><1><136.0202><724.0373><-186.3553><-226.3553><0><0.654348, 
+FadePalette: 17, 0.6630435, 0.6304348

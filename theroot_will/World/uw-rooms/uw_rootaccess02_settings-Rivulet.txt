@@ -1,0 +1,9 @@
+RainIntensity: 0
+RumbleIntensity: 0.5
+Clouds: 0.2173913
+EffectColorA: 18
+EffectColorB: 5
+Effects: Lightning-0.5326087-23-75, GreenSparks-0.1521739-26-19, ElectricDeath-1-282-25, 
+PlacedObjects: LightFixture><603.9501><721.5046><RedLight~17.32051~-10~37, LightFixture><967.6345><292.3357><RedLight~17.32051~-10~73, LightFixture><122.6174><24.69445><RedLight~17.32051~-10~68, LightFixture><146.8111><503.3152><RedLight~-229.6795~-165~31, LightFixture><2002.328><418.6033><RedLight~17.32051~-10~54, LightFixture><1732.444><7.678383><RedLight~17.32051~-10~60, LightFixture><1703.434><727.3111><RedLight~17.32051~-10~22, Corruption><147.613><618.335><0~100, Corruption><362.9197><556.6058><-4~68, CorruptionTube><354.082><516.1415><-198~50, SteamPipe><1059.054><97.53961><-44~43, SteamPipe><127.064><177.4265><59~32, SteamPipe><992.0521><163.4707><-70~45, SteamPipe><1064.073><180.5922><-18~51, SteamPipe><1086.355><114.6703><44~56, SteamPipe><211.2178><675.6974><51~-56, WallSteamer><144.886><495.6034><64~-90, WallSteamer><165.9313><579.8344><18~-56, WallSteamer><163.5851><92.819><-44~36, WallSteamer><173.3><180.9981><25~-30, WallSteamer><1939.69><543.4376><-48~-27, WallSteamer><1911.444><580.3079><-27~17, SteamPipe><1930.654><356.6753><-62~-30, SteamPipe><1890.555><648.5429><57~-11, SteamPipe><1911.571><558.5898><-44~-31, SteamPipe><1902.6><625.3678><24~13, 
+AmbientSounds: SPOT><AM_ENV-CityTone.ogg><834.1069><541.1397><0.4021739><1><1198.113><728.1454><-296.3553><-276.3553><0><0.5130436, OMNI><AM_RAIN-Rumbles.ogg><830.3721><650.1584><0.1956522><1, OMNI><AM_ENV-NatWind.ogg><653.4124><651.9298><0.2391304><1, OMNI><AM_ENV-WallHum.ogg><656.9604><575.196><0.4021739><0.8043478, SPOT><AM_IND-Utility03.ogg><836.7704><428.0511><0.3152174><1><1592.764><-26.95531><-395.3553><-86.35535><0><0.6326088, SPOT><SO_IND-HeatDuct.ogg><654.0942><461.9265><0.423913><1><20.09387><719.9258><-137.3553><-144.3553><0><0.3934784, 
+FadePalette: 17, 0.6086956, 0.5978261

@@ -1,0 +1,6 @@
+DangerType: FloodAndRain
+Palette: 8
+Effects: SkyAndLightBloom-0-30-30, LightBurn-0.09782609-32-87, Desaturation-0.5543478-300-31, 
+PlacedObjects: LightSource><773.9725><367.8019><0.2391304~Environment~-681~136~-281~149.6025~1~0~None~0~0, LightBeam><576.6254><197.0936><104~315~304~272~328~-106~-388~70~0.7695651~0.6413044~0~1~None~0~0, 
+AmbientSounds: SPOT><AM_ENV-WindGrass.ogg><698.72><532.6978><0.5><1><797.72><418.6978><-206.3553><-139.3553><0><0.6217393, SPOT><AM_ENV-SubTerr.ogg><876.695><535.8077><0.3369565><1><61.69501><136.8077><238.6447><35.64465><0><0.4152175, 
+FadePalette: 4, 0.5543478

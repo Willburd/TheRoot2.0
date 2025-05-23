@@ -1,0 +1,13 @@
+Template: tr_settingstemplate_husk
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 8.099999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 10
+Effects: BrokenZeroG-0.1956522-312-24, 
+PlacedObjects: LanternOnStick><1459.224><1380.956><-53~-181, LanternOnStick><936.4036><1360.878><33~-170, LanternOnStick><593.1872><487.6899><74~-135, LightFixture><514.3603><205.3568><RedSubmersible~17.32051~-10~90, LightFixture><157.356><728.6388><RedLight~17.32051~-10~39, LanternOnStick><2217.821><1448.725><48~-268, 
+FadePalette: 0, 0.09782609, 0.1195652, 0.1195652, 0.06521739, 0.06521739, 0.0326087
+WetTerrain: OFF

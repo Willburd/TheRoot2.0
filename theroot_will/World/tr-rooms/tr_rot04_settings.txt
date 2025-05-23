@@ -1,0 +1,14 @@
+Template: tr_settingstemplate_husk
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0.2608696
+WaveSpeed: 0.5283763
+WaveLength: 0.7358118
+WaveAmplitude: 0.04999988
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: BrokenZeroG-0.326087-310-12, 
+PlacedObjects: LightSource><849.6619><2004.82><0.1956522~Environment~-195~-30~-758~62.60254~1~1~None~0~0, LocalBlizzard><846.1328><2019.662><-149~-58~-483~128.6025~0.4565217~1~0.8152174, LightSource><562.1269><535.6546><0.1086962~Environment~-1304~-271~391~145.6025~1~0~None~0~0, Corruption><549.3311><93.56714><3~180, Corruption><389.0502><480.742><14~146, Corruption><820.3817><547.8495><0~100, Corruption><413.4275><1845.592><0~100, SnowSource><860.1201><1905.603><Radial~-56~231~-232~148.6025~0.6304348~1, SnowSource><159.8491><1849.684><Radial~273~21~50~86.60254~0.4347826~1, 
+AmbientSounds: SPOT><AM_WIN-SubWnd.ogg><460.5638><407.5732><0.5434783><1><749.5638><2075.573><-90.35535><-131.3553><0><0.5130436, SPOT><SO_SFX-Drowning.ogg><468.5574><303.5538><0.3478261><1><663.5574><85.55383><-765.3553><86.64465><0><1, SPOT><SO_WAT-OpenFlow.ogg><648.4354><317.925><0.5434783><1.215217><449.4354><1755.925><-234.3553><-3.355347><0><0.2847827, 
+FadePalette: 8, 0.5, 0.6086956, 0.7282609
+WetTerrain: OFF

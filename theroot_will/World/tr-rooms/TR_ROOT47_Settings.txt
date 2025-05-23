@@ -1,0 +1,13 @@
+Template: NONE
+RainIntensity: 1
+RumbleIntensity: 0.5434783
+Clouds: 0.2391304
+Grime: 0.07608695
+BkgDroneVolume: 0
+Palette: 2
+EffectColorA: 18
+Effects: LightBurn-0.1521739-30-30, GreenSparks-0.08695652-31-83, ElectricDeath-0.1521739-284-30, 
+PlacedObjects: DangleFruit><730.0593><448.5188><0~0~2~3, DangleFruit><704.7072><403.679><0~0~2~3, DangleFruit><1650.794><564.191><0~0~2~3, DangleFruit><1679.685><525.1884><0~0~2~3, SteamPipe><2763.957><575.1953><-47~-46, SteamPipe><2635.024><619.1986><43~-22, SteamPipe><2517.763><600.9496><-40~-77, SteamPipe><2217.574><609.845><-112~54, WallSteamer><2313.553><583.7172><52~49, WallSteamer><2558.905><590.6234><11~-62, WallSteamer><1325.662><533.1328><-43~-56, WallSteamer><1991.471><682.4479><-36~25, WallSteamer><1995.303><605.2155><22~-54, SteamPipe><1321.613><573.3958><60~-54, SteamPipe><1169.762><571.4496><-77~-58, SteamPipe><1427.941><527.3094><6~-24, SteamPipe><2003.665><712.4313><32~-30, WallSteamer><621.6473><533.8284><2~-87, WallSteamer><494.6006><624.5771><-43~-68, SteamPipe><791.1029><570.6355><88~-11, SteamPipe><673.1987><529.3067><-22~-71, SteamPipe><545.2633><567.6996><-80~-26, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><878.9398><576.0631><0.2608696><1, OMNI><AM_WIN-StrongWnd2.ogg><698.7782><574.052><0.5><1, SPOT><AM_RAIN-RollingThunder.ogg><699.5659><451.0782><0.2608696><1><4099.566><396.0782><-644.3553><-0.3553467><0><1, SPOT><AM_IND-12thFloor.ogg><880.3005><456.2352><0.3369565><1><3451.301><802.2352><-133.3553><-338.3553><0><0.752174, SPOT><AM_ENV-NatWind.ogg><702.4496><334.7623><0.5><0.8630434><-34.55035><509.7623><771.6447><-63.35535><0><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>BM_UW_UPPERWALL<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>917.5796<tB>462.3547<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB>Rivulet|Artificer|Saint|Spear|Gourmand<tA>pos<tB>2564.58<tB>278.3547<tA>handlePos<tB>-2728.355<tB>233.6447, 
+FadePalette: 3, 0.1847826, 0.2173913, 0.2717391, 0.4782609

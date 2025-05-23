@@ -1,0 +1,16 @@
+Template: TR_SettingsTemplate_RailYard
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.7337291
+WaveLength: 0.8831354
+WaveAmplitude: 2.71769E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: GreenSparks-0-29-142, LightBurn-0-34-36, Bloom-0.5-296-38, BkgOnlyLightning-0-31-89, 
+PlacedObjects: NoSpearStickZone><245.6992><310.7672><-5~148, DangleFruit><3341.121><458.1531><0~0~2~3, DangleFruit><3304.438><425.932><0~0~2~3, DangleFruit><2654.2><461.1938><0~0~2~3, Mushroom><3730.451><225.2066><0~0~2~3, Mushroom><3770.993><226.9398><0~0~2~3, SteamPipe><3955.129><1301.841><-41~33, SteamPipe><3917.125><1293.156><-34~-34, SteamPipe><3754.999><12.05002><47~57, SteamPipe><3417.195><24.2937><15~24, SteamPipe><3598.2><59.2377><-33~17, SteamPipe><3473.805><40.29498><44~15, SteamPipe><3620.07><15.43732><45~46, WallSteamer><3516.827><10.06516><-31~42, WallSteamer><3705.574><17.3446><27~46, SnowSource><1075.125><226.4062><None~-1301~642~-358~54.60254~0.3695652~1, SnowSource><-193.9331><374.0804><Radial~1029~-46~50~86.60254~0.2717391~1, SnowSource><3365.322><639.2303><Radial~1120~-574~-108~-336.3975~0.5869565~0.9456522, SnowSource><1492.808><334.3048><Radial~-447~163~50~86.60254~0.5217391~1, 
+AmbientSounds: SPOT><AM_ENV-WallHum.ogg><871.1829><522.5808><0.4021739><0.8043478><4142.183><1257.581><-753.3553><-189.3553><0><1, SPOT><AM_IND-12thFloor.ogg><692.4344><523.1727><0.3695652><0.8826087><4149.435><107.1728><-637.3553><130.6447><0><1, SPOT><SO_WAT-ProperDrips.ogg><870.8298><400.6449><0.2717391><0.8630434><2887.83><48.6449><-396.3553><10.64465><0><0.904348, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>BM_SS_DOOR<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>750.1133<tB>414.896<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB>Rivulet|Artificer|Saint|Spear|Gourmand<tA>pos<tB>3835.113<tB>1421.573<tA>handlePos<tB>-645.3553<tB>-164.3553, Spot<tA>event<tB>MusicEvent<eA>songName<eB>BM_SS_DOOR<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1000.45<tB>414.9892<tA>fireChance<tB>1<tA>entrance<tB>2<tA>karma<tB>0<tA>slugcats<tB>Rivulet|Artificer|Saint|Spear|Gourmand<tA>pos<tB>3833.45<tB>1418.989<tA>handlePos<tB>-538.3553<tB>-389.3553, 
+FadePalette: 0, 0.423913, 0.3478261, 0.25, 0.1956522, 0.3586957, 0.3152174, 0.25, 0.1956522
+WetTerrain: OFF

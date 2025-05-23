@@ -1,0 +1,26 @@
+Template: tr_settingstemplate_leg
+DangerType: FloodAndRain
+CeilingDrips: 0
+RainIntensity: 0.7065217
+RumbleIntensity: 0.8695652
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 10
+TerrainLight: 0
+TerrainStainBrightness: 0
+TerrainStainHeight: 0.8695652
+TerrainWaves: 0
+TerrainEdgeRadius: 200
+TerrainGooHeight: 0.2717391
+TerrainGrain: 0.2739125
+TerrainDepth: 0.4347828
+TerrainSkyFade: 1
+TerrainPalette: tomb_rain
+Effects: Lightning-0.0326087-30-30, SilenceWater-0.4565217-30-89, 
+PlacedObjects: LightFixture><832.8015><111.9741><RedLight~17.32051~-10~75, LightFixture><63.03836><599.1963><RedLight~17.32051~-10~32, 
+AmbientSounds: OMNI><so_wat-moredrips.ogg><831.9003><570.9233><0.3478261><1, 
+FadePalette: 16, 0.1413043
+WetTerrain: OFF
