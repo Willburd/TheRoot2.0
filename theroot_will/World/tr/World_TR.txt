@@ -278,6 +278,10 @@ TR_ROOT15 : 3-Salamander
 TR_ROOT07 : 7-Yellow-3
 TR_ROOT13 : 7-Yellow-3, 5-BigNeedleWorm, 5-SmallNeedleWorm-5
 TR_ROOT61 : 4-Lantern Mouse-5
+TR_ROOT63 : 8-SmallCentipede-2, 8-Centipede-{0.3}
+(X-Saint)TR_CAVE03 : 5-Blue
+(X-Saint)TR_CAVE04: 2-BigSpider
+(X-Saint)TR_CAVE05 : 4-SmallCentipede-2
 LINEAGE : TR_ROOT07 : 5 : Eggbug-0.1, Blue-0.3, Yellow-0.2, Cyan-0.2, Red-0.0
 LINEAGE : TR_ROOT13 : 4 : Eggbug-0.1, Yellow-0.3, Cyan-0.2, Centipede-0.2, Red Centipede-0.0
 (White)LINEAGE : TR_ROOT52 : 2 : White-0.1, Cyan-0.2, SpitterSpider-0.0
@@ -310,6 +314,9 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (White)TR_ROOT30 : 3-BigSpider-2, 6-Black, 8-Black
 (White)TR_ROOT02 : 10-TentaclePlant, 3-Centipede-2, 4-Centipede
 (White)TR_ROOT08 : 3-Centipede, 2-Small Centipede-2
+(White)TR_ROOT62 : 5-White
+(White)LINEAGE : TR_CAVE05 : 9 : Small Centipede-0.4, Centipede-{0.3}-1.0, Centipede-{0.6}-0
+(White)LINEAGE : TR_CAVE08 : 2 : NONE-0.05, Mimic-{5}-1.0, TentaclePlant, NONE-0
 
 // Yellow
 (Yellow)OFFSCREEN : 0-Vulture-2, 0-Scavenger-11
@@ -335,12 +342,14 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (Yellow)TR_ROOT30 : 3-BigSpider-2
 (Yellow)TR_ROOT02 : 10-TentaclePlant, 3-Centipede, 4-Centipede
 (Yellow)TR_ROOT08 : 3-Centipede, 2-Small Centipede-3
+(Yellow)TR)CAVE05 : 9-Small Centipede
+(Yellow)LINEAGE : TR_CAVE08 : 2 : NONE-0.04, Mimic-{5}-1.0, TentaclePlant, NONE-0
 
 // Red
 (Red)OFFSCREEN : 0-Vulture-4, 0-KingVulture, 0-Scavenger-13
 (Red)TR_ROOT10 : 2-Red Centipede, 2-Small Centipede-2
 (Red)TR_ROOT05 : 3-Centipede, 4-Centipede
-(Red)TR_ROOT22 : 6-Salamander
+(Red)TR_ROOT22 : 9-Salamander
 (Red)TR_ROOT24 : 3-Centipede, 6-Small Centipede-2
 (Red)TR_ROOT40 : 5-Cyan, 6-Cyan
 (Red)TR_ROOT28 : 3-SpitterSpider, 8-Dropbug-2
@@ -355,6 +364,7 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (Red)TR_ROOT33 : 6-Black, 8-Black, 19-Black
 (Red)TR_ROOT60 : 2-TentaclePlant
 (Red)TR_ROOT61 : 3-SpitterSpider
+(Red)TR_ROOT62 : 5-White
 (Red)TR_ROOT31 : 8-TentaclePlant
 (Red)TR_ROOT39 : 3-BigSpider, 4-TentaclePlant
 (Red)TR_ROOT45 : 2-Cyan
@@ -364,6 +374,152 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (Red)TR_ROOT30 : 3-SpitterSpider, 6-Black, 8-Black
 (Red)TR_ROOT02 : 10-TentaclePlant, 3-Centipede-3, 4-Cyan
 (Red)TR_ROOT08 : 3-Centipede-2, 2-Small Centipede-3
+(Red)TR_CAVE08 : 2-TentaclePlant
+(Red)LINEAGE : TR_CAVE05 : 9 : Centipede-{0.3}-1.0, Centipede-{0.6}-0.6, Centipede-{0.7}-0
+
+//PreCycle
+(X-Saint)TR_ROOT22 : 4-Eel-{PreCycle}
+(X-Saint,Spear,Artificer)TR_CAVE08 : 6-Eel-{PreCycle}
+(X-Spear,Artificer,Saint)TR_ROOT02 : 9-TentaclePlant-{PreCycle}
+(X-Saint,Spear,Artificer)TR_ROOT44 : 3-Cyan-{PreCycle}, 2-PoleMimic-{15}-{PreCycle}
+(X-Rivulet,Saint)TR_ROOT11 : 9-TentaclePlant-{PreCycle}
+
+//Spear
+(Spear)OFFSCREEN : 0-Vulture-3, 0-KingVulture-2, 0-Scavenger-14, 0-Elite, 0-MirosVulture-2
+(Spear)TR_ROOT10 : 2-Red Centipede, 2-Centipede-2
+(Spear)TR_ROOT05 : 3-Centipede-2, 4-Small Centipede-2
+(Spear,Artificer)TR_ROOT24 : 3-Cyan, 5-Centipede-2, 6-Small Centipede-3
+(Spear,Artificer)TR_ROOT40 : 5-Cyan, 2-White
+(Spear)TR_ROOT28 : 3-SpitterSpider, 5-BigSpider-2, 8-Dropbug-3
+(Spear)TR_ROOT18 : 15-Yellow-3, 16-Yellow-3, 6-SpitterSpider-3, 13-Dropbug-2
+(Spear)TR_ROOT55 : 4-Blue, 7-White-{Mean:0.4}, 8-Cyan
+(Spear,Artificer)TR_ROOT59 : 3-White, 7-Cyan, 8-Cyan
+(Spear,Artificer)TR_ROOT53 : 9-SpitterSpider, 8-SpitterSpider, 11-SpitterSpider-2
+(Spear)TR_ROOT50 : 4-White, 6-SpitterSpider-2, 8-Blue, 2-Cyan
+(Spear,Artificer)TR_ROOT56 : 2-SpitterSpider-2, 3-BigSpider
+(Spear)TR_ROOT43 : 3-BigSpider-2, 10-Blue, 12-EggBug
+(Spear)TR_ROOT51 : 2-SpitterSpider, 4-BigSpider-4
+(Spear,Artificer)TR_ROOT33 : 6-Black, 8-Black, 19-Black-2
+(Spear,Artificer)TR_ROOT60 : 2-Mimic-{16}
+(Spear)TR_ROOT61 : 3-BigSpider-2, 7-Pink
+(Spear)TR_ROOT62 : 5-Blue
+(Spear,Artificer)TR_ROOT39 : 3-BigSpider, 4-TentaclePlant
+(Spear)TR_ROOT45 : 2-Cyan, 4-White-{Mean:0.2}
+(Spear)TR_ROOT01 : 8-Cyan, 15-Centipede-2, 10-SmallCentipede-3
+(Spear,Artificer)TR_ROOT42 : 3-White, 2-SpitterSpider-2
+(Spear)TR_ROOT11 : 4-BigNeedleWorm, 4-SmallNeedleWorm-3, 8-Centipede-2, 9-Centipede-{0.75}-2
+(Spear,Artificer)TR_ROOT30 : 3-SpitterSpider, 6-Black, 8-Black, 11-BigSpider
+(Spear)TR_ROOT02 : 10-PoleMimic-{12}, 3-Centipede, 4-Cyan, 2-Pink, 8-PoleMimic-{10}
+(Spear)TR_ROOT08 : 3-Centipede-2, 2-Small Centipede-3, 4-EggBug
+(Spear,Artificer)TR_ROOT19 : 4-LanternMouse-2
+LINEAGE : OFFSCREEN : 0 : NONE-0.5, Scavenger-0.5, NONE-0.66, Elite-0
+(Spear)LINEAGE : TR_ROOT11 : 10 : SmallCentipede-0.33, Centipede-{0.74}-0.4, RedCentipede-0.5, SmallCentipede-0
+(Spear)LINEAGE : TR_ROOT33 : 14 : Black-0.5, Pink-0.3, Red-1, Lantern Mouse-0
+(Spear)LINEAGE : TR_ROOT56 : 5 : NONE-0.4, BigSpider-0.5, SpitterSpider-0.5, NONE-0
+(Spear)LINEAGE : TR_ROOT57 : 4 : EggBug-0.6, BigSpider-0.2, SpitterSpider-0
+(Spear)LINEAGE : TR_ROOT59 : 10 : Blue-0.5, DropBug-0.7, White-0
+(Spear)LINEAGE : TR_CAVE05 : 9 : Centipede-{0.7}-0.9, SmallCentipede-0.01, RedCentipede-0
+(Spear)LINEAGE : TR_ROOT30 : 10 : BigSpider-0.5, SpitterSpider-0.4, LanternMouse-0
+
+//Arty
+(Artificer)OFFSCREEN : 0-Vulture-3, 0-KingVulture-2, 0-Scavenger-17, 0-Elite-2, 0-MirosVulture
+(Artificer)TR_ROOT10 : 2-RedCentipede, 2-Centipede
+(Artificer)TR_ROOT05 : 3-Centipede, 4-Small Centipede-2
+(Artificer)TR_ROOT28 : 3-SpitterSpider, 5-BigSpider, 8-Dropbug-2
+(Artificer)TR_ROOT18 : 15-Yellow-3, 16-Yellow-2, 6-SpitterSpider-2, 13-Dropbug-2
+(Artificer)TR_ROOT50 : 4-White, 6-SpitterSpider-2, 8-Blue
+(Artificer)TR_ROOT51 : 2-SpitterSpider, 4-BigSpider-3
+(Artificer)TR_ROOT55 : 4-White, 7-White, 8-Cyan
+(Artificer)TR_ROOT61 : 2-SpitterSpider, 3-BigSpider, 7-Pink
+(Artificer)TR_ROOT62 : 5-Cyan
+(Artificer)TR_ROOT45 : 2-Cyan, 4-White
+(Artificer)TR_ROOT01 : 8-Cyan, 15-Centipede, 10-SmallCentipede-3
+(Artificer)TR_ROOT02 : 10-TentaclePlant, 3-Centipede, 4-Cyan, 2-Pink, 8-PoleMimic-{10}
+(Artificer)TR_ROOT11 : 4-BigNeedleWorm, 4-SmallNeedleWorm-2, 8-Centipede-2, 9-Centipede-{0.75}
+(Artificer)TR_ROOT19 : 4-LanternMouse
+(Artificer)TR_ROOT43 : 3-BigSpider-3, 10-Blue
+(Artificer)TR_ROOT08 : 3-Centipede-3, 2-Small Centipede-3
+(Artificer)LINEAGE : TR_ROOT11 : 10 : SmallCentipede-0.4, Centipede-{0.74}-0.4, RedCentipede-0.5, SmallCentipede-0
+(Artificer)LINEAGE : TR_ROOT31 : 8 : NONE-0.2, TentaclePlant-0
+(Artificer)LINEAGE : TR_ROOT33 : 14 : Pink-0.5, Red-0.6, Lantern Mouse-0
+(Artificer)LINEAGE : TR_ROOT56 : 5 : NONE-0.5, BigSpider-0.5, SpitterSpider-0.1, NONE-0
+(Artificer)LINEAGE : TR_ROOT57 : 4 : BigSpider-0.2, SpitterSpider-0.4, Eggbug-0
+(Artificer)LINEAGE : TR_ROOT59 : 10 : DropBug-0.8, Blue-0.5, White-0
+(Artificer)LINEAGE : TR_CAVE05 : 9 : Centipede-{0.6}-0.4, Centipede-{0.7}-0.5, Small Centipede-0
+(Artificer)LINEAGE : TR_ROOT30 : 10 : SpitterSpider-0.6, LanternMouse-0
+
+//Gourfield
+(Gourmand)OFFSCREEN : 0-Vulture-3, 0-KingVulture, 0-Scavenger-11
+(Gourmand)TR_ROOT10 : 2-Red Centipede, 2-Small Centipede-2
+(Gourmand)TR_ROOT05 : 3-Centipede, 4-Small Centipede-2
+(Gourmand)TR_ROOT24 : 3-Salamander
+(Gourmand)TR_ROOT40 : 5-Blue, 6-Cyan
+(Gourmand)TR_ROOT28 : 3-SpitterSpider, 8-Dropbug
+(Gourmand)TR_ROOT18 : 15-Yellow-3, 16-Yellow-4, 6-BigSpider-3, 6-SpitterSpider, 13-Dropbug
+(Gourmand)TR_ROOT55 : 7-Daddy
+(Gourmand)TR_ROOT59 : 3-White, 8-Daddy
+(Gourmand)TR_ROOT53 : 6-Lantern Mouse-5
+(Gourmand)TR_ROOT50 : 4-White
+(Gourmand)TR_ROOT56 : 2-SpitterSpider, 3-Tube-3
+(Gourmand)TR_ROOT43 : 3-Lantern Mouse-3
+(Gourmand)TR_ROOT51 : 4-BigSpider-2
+(Gourmand)TR_ROOT33 : 6-Black, 8-Black, 19-Black
+(Gourmand)TR_ROOT61 : 3-Black
+(Gourmand)TR_ROOT60 : 2-BigSpider-2
+(Gourmand)TR_ROOT31 : 8-TentaclePlant
+(Gourmand)TR_ROOT39 : 3-BigSpider, 4-TentaclePlant
+(Gourmand)TR_ROOT01 : 8-Yellow-2, 15-Cyan, 10-Small Centipede-4
+(Gourmand)TR_ROOT42 : 3-White-{Mean:03}
+(Gourmand)TR_ROOT11 : 8-Yellow-4
+(Gourmand)TR_ROOT30 : 3-BigSpider-2, 6-Black, 8-Black
+(Gourmand)TR_ROOT02 : 10-TentaclePlant, 3-Centipede-2, 4-Centipede
+(Gourmand)TR_ROOT08 : 3-Centipede, 2-Small Centipede-2
+(Gourmand)TR_ROOT62 : 5-White
+(Gourmand)LINEAGE : TR_CAVE05 : 9 : Small Centipede-0.4, Centipede-{0.3}-1.0, Centipede-{0.6}-0
+(Gourmand)LINEAGE : TR_CAVE08 : 2 : NONE-0.05, Mimic-{5}-1.0, TentaclePlant, NONE-0
+(Gourmand)LINEAGE : TR_ROOT42 : 2 : BigSpider-0.33, SpitterSpider-0.4, White-0
+(Gourmand)LINEAGE : TR_ROOT45 : 2 : Blue-0.4, Cyan-0.5, White-0.6, Blue-0
+(Gourmand)TR_ROOT22 : 9-Salamander
+(Gourmand)TR_CAVE08 : 2-TentaclePlant
+
+//Riv
+(Rivulet)OFFSCREEN : 0-Vulture-2, 0-Scavenger-9
+(Rivulet)TR_ROOT22 : 9-Salamander, 6-Eel
+(Rivulet)TR_ROOT10 : 2-Small Centipede-5
+(Rivulet)TR_ROOT05 : 3-Centipede, 4-Centipede
+(Rivulet)TR_ROOT40 : 2-White, 5-Daddy
+(Rivulet)TR_ROOT28 : 8-Lantern Mouse-6
+(Rivulet)TR_ROOT18 : 15-Yellow-3, 16-Yellow-2, 6-BigSpider, 6-SpitterSpider
+(Rivulet)TR_ROOT55 : 7-Daddy, 8-Daddy
+(Rivulet)TR_ROOT59 : 8-Daddy, 3-Daddy
+(Rivulet)TR_ROOT53 : 6-Tube
+(Rivulet)TR_ROOT50 : 2-Daddy, 9-Daddy
+(Rivulet)TR_ROOT56 : 2-Tube, 3-Tube
+(Rivulet)TR_ROOT57 : 4-LanternMouse
+(Rivulet)TR_ROOT43 : 3-Lantern Mouse
+(Rivulet)TR_ROOT51 : 4-Daddy
+(Rivulet)TR_ROOT33 : 6-Black, 8-Black, 19-Pink
+(Rivulet)TR_ROOT60 : 2-BigSpider-3
+(Rivulet)TR_ROOT39 : 3-SpitterSpider
+(Rivulet)TR_ROOT01 : 8-Yellow-2, 10-Small Centipede-4
+(Rivulet)TR_ROOT42 : 2-Blue, 3-Daddy
+(Rivulet)TR_ROOT11 : 9-Yellow-3, 8-TentaclePlant
+(Rivulet)TR_ROOT30 : 3-BigSpider-2
+(Rivulet)TR_ROOT02 : 10-TentaclePlant, 3-Centipede, 4-Centipede
+(Rivulet)TR_ROOT08 : 3-Centipede-2, 2-Small Centipede-2
+(Rivulet)TR_CAVE05 : 9-Small Centipede-2
+(Rivulet)LINEAGE : TR_CAVE08 : 2 : NONE-0.04, Mimic-{5}-1.0, TentaclePlant, NONE-0
+(Rivulet)LINEAGE : TR_ROOT24 : 3 : Salamander-0.4, Eel-0
+(Rivulet)LINEAGE : TR_ROOT50 : 4 : NONE-0.1, Blue-0.5, White-0
+
+//Saint
+(Saint)OFFSCREEN : 0-Vulture, 0-Scavenger-16, 0-MirosVulture-{Night}
+//letmethinkaboutthis
+
+//Pain
+(Inv)OFFSCREEN : 0-KingVulture-50, 0-Elite-6, 0-MirosVulture-50
+(Inv)TR_ROOT43 : 11-DropBug, 10-DropBug, 8-DropBug, 7-DropBug
+
 END CREATURES
 
 BAT MIGRATION BLOCKAGES
