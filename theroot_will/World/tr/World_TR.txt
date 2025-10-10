@@ -279,6 +279,7 @@ TR_ROOT07 : 7-Yellow-3
 TR_ROOT13 : 7-Yellow-3, 5-BigNeedleWorm, 5-SmallNeedleWorm-5
 TR_ROOT61 : 4-Lantern Mouse-5
 TR_ROOT63 : 8-SmallCentipede-2, 8-Centipede-{0.3}
+TR_ROOT33 : 4-Lantern Mouse-3, 3-Lantern Mouse-2
 (X-Saint)TR_CAVE03 : 5-Blue
 (X-Saint)TR_CAVE04: 2-BigSpider
 (X-Saint)TR_CAVE05 : 4-SmallCentipede-2
