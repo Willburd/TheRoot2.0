@@ -280,6 +280,8 @@ TR_ROOT13 : 7-Yellow-3, 5-BigNeedleWorm, 5-SmallNeedleWorm-5
 TR_ROOT61 : 4-Lantern Mouse-5
 TR_ROOT63 : 8-SmallCentipede-2, 8-Centipede-{0.3}
 TR_ROOT33 : 4-Lantern Mouse-3, 3-Lantern Mouse-2
+TR_ROOT65 : 3-SmallCentipede-2, 5-Centipede-{0.3}
+TR_ROOT64 : 3-Blue, 12-White, 8-LanternMouse-3, 4-LanternMouse-3
 (X-Saint)TR_CAVE03 : 5-Blue
 (X-Saint)TR_CAVE04: 2-BigSpider
 (X-Saint)TR_CAVE05 : 4-SmallCentipede-2
@@ -515,7 +517,33 @@ LINEAGE : OFFSCREEN : 0 : NONE-0.5, Scavenger-0.5, NONE-0.66, Elite-0
 
 //Saint
 (Saint)OFFSCREEN : 0-Vulture, 0-Scavenger-16, 0-MirosVulture-{Night}
-//letmethinkaboutthis
+(Saint)TR_ROOT01 : 14-Centipede, 15-Centipede-2, 14-Small Centipede-3, 5-Small Centipede-2
+(Saint)TR_ROOT01 : 7-Yeek-2, 8-Yeek-3
+(Saint)TR_ROOT02 : 7-Yeek-3, 10-Centiwing-1, 11-Centiwing-1
+(Saint)TR_ROOT09 : 3-Blue, 4-BigSpider, 5-BigSpider-2
+(Saint)TR_ROOT10 : 2-Small Centipede-5
+(Saint)TR_ROOT05 : 3-Centipede, 4-Centipede
+(Saint)TR_ROOT18 : 15-Yellow-3, 16-Yellow-2
+(Saint)TR_ROOT11 : 9-Yellow-3, 8-Centiwing-1, 10-Blue, 4-Centiwing-2
+(Saint)TR_ROOT02 : 3-Centipede, 4-Centipede
+(Saint)TR_ROOT08 : 3-Centipede-2, 2-Small Centipede-2, 5-Yellow-2
+(Saint)TR_ROOT25 : 2-Centipede-2, 3-Small Centipede-3
+(Saint)TR_CAVE05 : 9-Small Centipede-2
+(Saint)TR_ROOT13_SAINT : 12-Centiwing-1, 7-Yeek-3, 10-Centiwing-2, 5-White, 9-Strawberry, 15-Yeek-4
+(Saint)TR_ROT14 : 6-Small Centipede-2, 7-Small Centipede, 10-Small Centipede-3
+(Saint)TR_ROT15 : 7-Blue
+(Saint)TR_ROT11 : 7-Strawberry-2
+(Saint)TR_ROT07 : 2-Small Centipede-3, 3-White
+(Saint)TR_ROT02 : 2-White
+(Saint)TR_ROT08 : 11-Bro, 9-Bro
+(Saint)TR_ROT03 : 4-White
+(Saint)TR_ROOT43 : 10-Blue, 4-Centipede-3, 3-Small Centipede-2
+(Saint)TR_ROTENTRANCE : 11-Bro, 22-Bro
+(Saint)TR_ROOT22_SAINT : 4-Bro
+(Saint)TR_ROOT24_SAINT : 6-Yeek-4, 4-Strawberry
+(Saint)TR_ROOT63_SAINT : 3-BigSpider-2, 4-BigSpider
+(Saint)TR_CAVE04_SAINT : 5-Strawberry
+(Saint)TR_CAVE07 : 3-LanternMouse-3, 4-LanternMouse-2
 
 //Pain
 (Inv)OFFSCREEN : 0-KingVulture-50, 0-Elite-6, 0-MirosVulture-50
