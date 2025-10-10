@@ -1,0 +1,9 @@
+TR_Landscape - 3 : 25 : Lighten
+TR_Landscape - 2 : 12 : LightEdges
+TR_Landscape - 1 : 0.001 : LightEdges
+
+blurMin : -0.04
+blurMax : 1
+idleDepths : 11.5
+idleDepths : 2.8
+idleDepths : 1

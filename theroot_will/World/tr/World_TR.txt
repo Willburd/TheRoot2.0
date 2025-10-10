@@ -516,7 +516,7 @@ LINEAGE : OFFSCREEN : 0 : NONE-0.5, Scavenger-0.5, NONE-0.66, Elite-0
 (Rivulet)LINEAGE : TR_ROOT50 : 4 : NONE-0.1, Blue-0.5, White-0
 
 //Saint
-(Saint)OFFSCREEN : 0-Vulture, 0-Scavenger-16, 0-MirosVulture-{Night}
+(Saint)OFFSCREEN : 0-Vulture, 0-MirosVulture-{Night}, 0-MirosVulture-{Night}, 0-MirosVulture, 0-Scavenger-16, 0-Elite-2
 (Saint)TR_ROOT01 : 14-Centipede, 15-Centipede-2, 14-Small Centipede-3, 5-Small Centipede-2
 (Saint)TR_ROOT01 : 7-Yeek-2, 8-Yeek-3
 (Saint)TR_ROOT02 : 7-Yeek-3, 10-Centiwing-1, 11-Centiwing-1
