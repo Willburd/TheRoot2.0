@@ -268,7 +268,7 @@ CREATURES
 TR_ROOT03 : 6-Mimic-{22}
 TR_ROOT07 : 3-BigNeedleWorm, 3-SmallNeedleWorm-4
 TR_ROOT54 : 6-Yellow-3, 7-Yellow-2
-TR_ROOT27 : 2-Tube-2
+(X-Saint)TR_ROOT27 : 2-Tube-2
 TR_ROOT19 : 5-Lantern Mouse-3
 TR_ROOT49 : 4-Tube-2, 4-Lantern Mouse-5
 TR_ROOT36 : 4-Lantern Mouse-3
@@ -283,7 +283,7 @@ TR_ROOT33 : 4-Lantern Mouse-3, 3-Lantern Mouse-2
 TR_ROOT65 : 3-SmallCentipede-2, 5-Centipede-{0.3}
 TR_ROOT64 : 3-Blue, 12-White, 8-LanternMouse-3, 4-LanternMouse-3
 (X-Saint)TR_CAVE03 : 5-Blue
-(X-Saint)TR_CAVE04: 2-BigSpider
+(X-Saint)TR_CAVE04 : 2-BigSpider
 (X-Saint)TR_CAVE05 : 4-SmallCentipede-2
 LINEAGE : TR_ROOT07 : 5 : Eggbug-0.1, Blue-0.3, Yellow-0.2, Cyan-0.2, Red-0.0
 LINEAGE : TR_ROOT13 : 4 : Eggbug-0.1, Yellow-0.3, Cyan-0.2, Centipede-0.2, Red Centipede-0.0
@@ -345,7 +345,7 @@ LINEAGE : TR_ROOT04 : 10 : TentaclePlant-0.05, Centipede-0.2, Cyan-0.2, Red-0.0
 (Yellow)TR_ROOT30 : 3-BigSpider-2
 (Yellow)TR_ROOT02 : 10-TentaclePlant, 3-Centipede, 4-Centipede
 (Yellow)TR_ROOT08 : 3-Centipede, 2-Small Centipede-3
-(Yellow)TR)CAVE05 : 9-Small Centipede
+(Yellow)TR_CAVE05 : 9-Small Centipede
 (Yellow)LINEAGE : TR_CAVE08 : 2 : NONE-0.04, Mimic-{5}-1.0, TentaclePlant, NONE-0
 
 // Red
@@ -472,7 +472,7 @@ LINEAGE : OFFSCREEN : 0 : NONE-0.5, Scavenger-0.5, NONE-0.66, Elite-0
 (Gourmand)TR_ROOT31 : 8-TentaclePlant
 (Gourmand)TR_ROOT39 : 3-BigSpider, 4-TentaclePlant
 (Gourmand)TR_ROOT01 : 8-Yellow-2, 15-Cyan, 10-Small Centipede-4
-(Gourmand)TR_ROOT42 : 3-White-{Mean:03}
+(Gourmand)TR_ROOT42 : 3-White-{Mean:0.3}
 (Gourmand)TR_ROOT11 : 8-Yellow-4
 (Gourmand)TR_ROOT30 : 3-BigSpider-2, 6-Black, 8-Black
 (Gourmand)TR_ROOT02 : 10-TentaclePlant, 3-Centipede-2, 4-Centipede
