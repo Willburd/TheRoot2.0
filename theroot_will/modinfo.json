@@ -6,6 +6,6 @@
 	"description": "An old region expanding on Subterranean, and The Exterior, with all new rooms. Made to give exploration focused players more Rain World to discover. Now supports Downpour, but does not require it!",
 	"requirements": ["regionkit","crs"],
 	"requirements_names": ["RegionKit","Custom Regions Support"],
-	"tags": ["Region"],
+	"tags": ["Regions"],
 	"checksum_override_version": false
 }
