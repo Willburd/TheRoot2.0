@@ -5,10 +5,11 @@ RainIntensity: 0
 RumbleIntensity: 0
 WaveSpeed: 0.5
 WaveLength: 1
-WaveAmplitude: 1.742693E-09
+WaveAmplitude: 5.605194E-45
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 1
 Grime: 0
+PlacedObjects: GooieDuck><2340.348><270.6745><0~0~2~13, 
 FadePalette: 2, 0.1521739, 0.1521739, 0.1521739
 WetTerrain: OFF
