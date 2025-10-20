@@ -1,7 +1,7 @@
 {
 	"id": "theroot_will",
 	"name": "The Root",
-	"version": "3.03",
+	"version": "3.04",
 	"authors": "Willbird, Facecat, Norgad, Enderzilla, Bro",
 	"description": "An old region expanding on Subterranean, and The Exterior, with all new rooms. Made to give exploration focused players more Rain World to discover. Now supports Downpour, but does not require it!",
 	"requirements": ["regionkit","crs"],
